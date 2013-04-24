@@ -1,0 +1,796 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		469AFEF51453DC4000475078 /* FDCDeletedObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFE9D1453DC4000475078 /* FDCDeletedObject.h */; };
+		469AFEF61453DC4000475078 /* FDCDeletedObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFE9E1453DC4000475078 /* FDCDeletedObject.m */; };
+		469AFEF71453DC4000475078 /* FDCEmailMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFE9F1453DC4000475078 /* FDCEmailMessage.h */; };
+		469AFEF81453DC4000475078 /* FDCEmailMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEA01453DC4000475078 /* FDCEmailMessage.m */; };
+		469AFEF91453DC4000475078 /* FDCGetDeletedResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEA11453DC4000475078 /* FDCGetDeletedResult.h */; };
+		469AFEFA1453DC4000475078 /* FDCGetDeletedResult.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEA21453DC4000475078 /* FDCGetDeletedResult.m */; };
+		469AFEFB1453DC4000475078 /* FDCGetUpdatedResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEA31453DC4000475078 /* FDCGetUpdatedResult.h */; };
+		469AFEFC1453DC4000475078 /* FDCGetUpdatedResult.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEA41453DC4000475078 /* FDCGetUpdatedResult.m */; };
+		469AFEFD1453DC4000475078 /* FDCMessageElement.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEA51453DC4000475078 /* FDCMessageElement.h */; };
+		469AFEFE1453DC4000475078 /* FDCMessageElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEA61453DC4000475078 /* FDCMessageElement.m */; };
+		469AFEFF1453DC4000475078 /* FDCMessageEnvelope.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEA71453DC4000475078 /* FDCMessageEnvelope.h */; };
+		469AFF001453DC4000475078 /* FDCMessageEnvelope.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEA81453DC4000475078 /* FDCMessageEnvelope.m */; };
+		469AFF011453DC4000475078 /* FDCOAuthViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEA91453DC4000475078 /* FDCOAuthViewController.h */; };
+		469AFF021453DC4000475078 /* FDCOAuthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEAA1453DC4000475078 /* FDCOAuthViewController.m */; };
+		469AFF031453DC4000475078 /* FDCServerSwitchboard.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEAB1453DC4000475078 /* FDCServerSwitchboard.h */; };
+		469AFF041453DC4000475078 /* FDCServerSwitchboard.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEAC1453DC4000475078 /* FDCServerSwitchboard.m */; };
+		469AFF051453DC4000475078 /* FDCServerSwitchboard+Describe.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEAD1453DC4000475078 /* FDCServerSwitchboard+Describe.h */; };
+		469AFF061453DC4000475078 /* FDCServerSwitchboard+Describe.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEAE1453DC4000475078 /* FDCServerSwitchboard+Describe.m */; };
+		469AFF071453DC4000475078 /* FDCServerSwitchboard+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEAF1453DC4000475078 /* FDCServerSwitchboard+Private.h */; };
+		469AFF081453DC4000475078 /* FDCServerSwitchboard+Private.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEB01453DC4000475078 /* FDCServerSwitchboard+Private.m */; };
+		469AFF091453DC4000475078 /* FDCServerSwitchboard+Utility.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEB11453DC4000475078 /* FDCServerSwitchboard+Utility.h */; };
+		469AFF0A1453DC4000475078 /* FDCServerSwitchboard+Utility.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEB21453DC4000475078 /* FDCServerSwitchboard+Utility.m */; };
+		469AFF0B1453DC4000475078 /* FDCURLConnection.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEB31453DC4000475078 /* FDCURLConnection.h */; };
+		469AFF0C1453DC4000475078 /* FDCURLConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEB41453DC4000475078 /* FDCURLConnection.m */; };
+		469AFF0D1453DC4000475078 /* NSDate+Additions.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEB51453DC4000475078 /* NSDate+Additions.h */; };
+		469AFF0E1453DC4000475078 /* NSDate+Additions.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEB61453DC4000475078 /* NSDate+Additions.m */; };
+		469AFF0F1453DC4000475078 /* NSObject+Additions.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEB71453DC4000475078 /* NSObject+Additions.h */; };
+		469AFF101453DC4000475078 /* NSObject+Additions.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEB81453DC4000475078 /* NSObject+Additions.m */; };
+		469AFF111453DC4000475078 /* NSURL+Additions.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEB91453DC4000475078 /* NSURL+Additions.h */; };
+		469AFF121453DC4000475078 /* NSURL+Additions.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEBA1453DC4000475078 /* NSURL+Additions.m */; };
+		469AFF131453DC4000475078 /* ZKBaseClient.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEBB1453DC4000475078 /* ZKBaseClient.h */; };
+		469AFF141453DC4000475078 /* ZKBaseClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEBC1453DC4000475078 /* ZKBaseClient.m */; };
+		469AFF151453DC4000475078 /* ZKChildRelationship.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEBD1453DC4000475078 /* ZKChildRelationship.h */; };
+		469AFF161453DC4000475078 /* ZKChildRelationship.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEBE1453DC4000475078 /* ZKChildRelationship.m */; };
+		469AFF171453DC4000475078 /* ZKDescribeButtonSection.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEBF1453DC4000475078 /* ZKDescribeButtonSection.h */; };
+		469AFF181453DC4000475078 /* ZKDescribeField.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEC01453DC4000475078 /* ZKDescribeField.h */; };
+		469AFF191453DC4000475078 /* ZKDescribeField.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEC11453DC4000475078 /* ZKDescribeField.m */; };
+		469AFF1A1453DC4000475078 /* ZKDescribeGlobalSObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEC21453DC4000475078 /* ZKDescribeGlobalSObject.h */; };
+		469AFF1B1453DC4000475078 /* ZKDescribeGlobalSObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEC31453DC4000475078 /* ZKDescribeGlobalSObject.m */; };
+		469AFF1C1453DC4000475078 /* ZKDescribeLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEC41453DC4000475078 /* ZKDescribeLayout.h */; };
+		469AFF1D1453DC4000475078 /* ZKDescribeLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEC51453DC4000475078 /* ZKDescribeLayout.m */; };
+		469AFF1E1453DC4000475078 /* ZKDescribeLayoutButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEC61453DC4000475078 /* ZKDescribeLayoutButton.h */; };
+		469AFF1F1453DC4000475078 /* ZKDescribeLayoutButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEC71453DC4000475078 /* ZKDescribeLayoutButton.m */; };
+		469AFF201453DC4000475078 /* ZKDescribeLayoutButtonSection.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEC81453DC4000475078 /* ZKDescribeLayoutButtonSection.h */; };
+		469AFF211453DC4000475078 /* ZKDescribeLayoutButtonSection.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEC91453DC4000475078 /* ZKDescribeLayoutButtonSection.m */; };
+		469AFF221453DC4000475078 /* ZKDescribeLayoutComponent.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFECA1453DC4000475078 /* ZKDescribeLayoutComponent.h */; };
+		469AFF231453DC4000475078 /* ZKDescribeLayoutComponent.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFECB1453DC4000475078 /* ZKDescribeLayoutComponent.m */; };
+		469AFF241453DC4000475078 /* ZKDescribeLayoutItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFECC1453DC4000475078 /* ZKDescribeLayoutItem.h */; };
+		469AFF251453DC4000475078 /* ZKDescribeLayoutItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFECD1453DC4000475078 /* ZKDescribeLayoutItem.m */; };
+		469AFF261453DC4000475078 /* ZKDescribeLayoutResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFECE1453DC4000475078 /* ZKDescribeLayoutResult.h */; };
+		469AFF271453DC4000475078 /* ZKDescribeLayoutResult.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFECF1453DC4000475078 /* ZKDescribeLayoutResult.m */; };
+		469AFF281453DC4000475078 /* ZKDescribeLayoutRow.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFED01453DC4000475078 /* ZKDescribeLayoutRow.h */; };
+		469AFF291453DC4000475078 /* ZKDescribeLayoutRow.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFED11453DC4000475078 /* ZKDescribeLayoutRow.m */; };
+		469AFF2A1453DC4000475078 /* ZKDescribeLayoutSection.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFED21453DC4000475078 /* ZKDescribeLayoutSection.h */; };
+		469AFF2B1453DC4000475078 /* ZKDescribeLayoutSection.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFED31453DC4000475078 /* ZKDescribeLayoutSection.m */; };
+		469AFF2C1453DC4000475078 /* ZKDescribeSObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFED41453DC4000475078 /* ZKDescribeSObject.h */; };
+		469AFF2D1453DC4000475078 /* ZKDescribeSObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFED51453DC4000475078 /* ZKDescribeSObject.m */; };
+		469AFF2E1453DC4000475078 /* ZKLoginResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFED61453DC4000475078 /* ZKLoginResult.h */; };
+		469AFF2F1453DC4000475078 /* ZKLoginResult.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFED71453DC4000475078 /* ZKLoginResult.m */; };
+		469AFF301453DC4000475078 /* ZKParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFED81453DC4000475078 /* ZKParser.h */; };
+		469AFF311453DC4000475078 /* ZKParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFED91453DC4000475078 /* ZKParser.m */; };
+		469AFF321453DC4000475078 /* ZKPicklistEntry.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEDA1453DC4000475078 /* ZKPicklistEntry.h */; };
+		469AFF331453DC4000475078 /* ZKPicklistEntry.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEDB1453DC4000475078 /* ZKPicklistEntry.m */; };
+		469AFF341453DC4000475078 /* ZKPicklistForRecordType.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEDC1453DC4000475078 /* ZKPicklistForRecordType.h */; };
+		469AFF351453DC4000475078 /* ZKPicklistForRecordType.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEDD1453DC4000475078 /* ZKPicklistForRecordType.m */; };
+		469AFF361453DC4000475078 /* ZKQueryResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEDE1453DC4000475078 /* ZKQueryResult.h */; };
+		469AFF371453DC4000475078 /* ZKQueryResult.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEDF1453DC4000475078 /* ZKQueryResult.m */; };
+		469AFF381453DC4000475078 /* ZKRecordTypeInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEE01453DC4000475078 /* ZKRecordTypeInfo.h */; };
+		469AFF391453DC4000475078 /* ZKRecordTypeInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEE11453DC4000475078 /* ZKRecordTypeInfo.m */; };
+		469AFF3A1453DC4000475078 /* ZKRecordTypeMapping.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEE21453DC4000475078 /* ZKRecordTypeMapping.h */; };
+		469AFF3B1453DC4000475078 /* ZKRecordTypeMapping.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEE31453DC4000475078 /* ZKRecordTypeMapping.m */; };
+		469AFF3C1453DC4000475078 /* ZKRelatedList.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEE41453DC4000475078 /* ZKRelatedList.h */; };
+		469AFF3D1453DC4000475078 /* ZKRelatedList.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEE51453DC4000475078 /* ZKRelatedList.m */; };
+		469AFF3E1453DC4000475078 /* ZKRelatedListColumn.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEE61453DC4000475078 /* ZKRelatedListColumn.h */; };
+		469AFF3F1453DC4000475078 /* ZKRelatedListColumn.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEE71453DC4000475078 /* ZKRelatedListColumn.m */; };
+		469AFF401453DC4000475078 /* ZKRelatedListSort.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEE81453DC4000475078 /* ZKRelatedListSort.h */; };
+		469AFF411453DC4000475078 /* ZKRelatedListSort.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEE91453DC4000475078 /* ZKRelatedListSort.m */; };
+		469AFF421453DC4000475078 /* ZKSaveResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEEA1453DC4000475078 /* ZKSaveResult.h */; };
+		469AFF431453DC4000475078 /* ZKSaveResult.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEEB1453DC4000475078 /* ZKSaveResult.m */; };
+		469AFF441453DC4000475078 /* ZKSforce.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEEC1453DC4000475078 /* ZKSforce.h */; };
+		469AFF451453DC4000475078 /* ZKSoapException.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEED1453DC4000475078 /* ZKSoapException.h */; };
+		469AFF461453DC4000475078 /* ZKSoapException.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEEE1453DC4000475078 /* ZKSoapException.m */; };
+		469AFF471453DC4000475078 /* ZKSObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEEF1453DC4000475078 /* ZKSObject.h */; };
+		469AFF481453DC4000475078 /* ZKSObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEF01453DC4000475078 /* ZKSObject.m */; };
+		469AFF491453DC4000475078 /* ZKUserInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEF11453DC4000475078 /* ZKUserInfo.h */; };
+		469AFF4A1453DC4000475078 /* ZKUserInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEF21453DC4000475078 /* ZKUserInfo.m */; };
+		469AFF4B1453DC4000475078 /* ZKXmlDeserializer.h in Headers */ = {isa = PBXBuildFile; fileRef = 469AFEF31453DC4000475078 /* ZKXmlDeserializer.h */; };
+		469AFF4C1453DC4000475078 /* ZKXmlDeserializer.m in Sources */ = {isa = PBXBuildFile; fileRef = 469AFEF41453DC4000475078 /* ZKXmlDeserializer.m */; };
+		46AD3B8B1453D75D00A58302 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46AD3B8A1453D75D00A58302 /* Foundation.framework */; };
+		46AD3B991453D75D00A58302 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46AD3B981453D75D00A58302 /* SenTestingKit.framework */; };
+		46AD3B9B1453D75D00A58302 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46AD3B9A1453D75D00A58302 /* UIKit.framework */; };
+		46AD3B9C1453D75D00A58302 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46AD3B8A1453D75D00A58302 /* Foundation.framework */; };
+		46AD3B9F1453D75D00A58302 /* libZKSforce.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 46AD3B871453D75D00A58302 /* libZKSforce.a */; };
+		46AD3BA51453D75D00A58302 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 46AD3BA31453D75D00A58302 /* InfoPlist.strings */; };
+		46AD3BA81453D75D00A58302 /* ZKSforceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 46AD3BA71453D75D00A58302 /* ZKSforceTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		46AD3B9D1453D75D00A58302 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46AD3B7E1453D75C00A58302 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 46AD3B861453D75D00A58302;
+			remoteInfo = ZKSforce;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		469AFE9D1453DC4000475078 /* FDCDeletedObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FDCDeletedObject.h; sourceTree = "<group>"; };
+		469AFE9E1453DC4000475078 /* FDCDeletedObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FDCDeletedObject.m; sourceTree = "<group>"; };
+		469AFE9F1453DC4000475078 /* FDCEmailMessage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FDCEmailMessage.h; sourceTree = "<group>"; };
+		469AFEA01453DC4000475078 /* FDCEmailMessage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FDCEmailMessage.m; sourceTree = "<group>"; };
+		469AFEA11453DC4000475078 /* FDCGetDeletedResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FDCGetDeletedResult.h; sourceTree = "<group>"; };
+		469AFEA21453DC4000475078 /* FDCGetDeletedResult.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FDCGetDeletedResult.m; sourceTree = "<group>"; };
+		469AFEA31453DC4000475078 /* FDCGetUpdatedResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FDCGetUpdatedResult.h; sourceTree = "<group>"; };
+		469AFEA41453DC4000475078 /* FDCGetUpdatedResult.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FDCGetUpdatedResult.m; sourceTree = "<group>"; };
+		469AFEA51453DC4000475078 /* FDCMessageElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FDCMessageElement.h; sourceTree = "<group>"; };
+		469AFEA61453DC4000475078 /* FDCMessageElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FDCMessageElement.m; sourceTree = "<group>"; };
+		469AFEA71453DC4000475078 /* FDCMessageEnvelope.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FDCMessageEnvelope.h; sourceTree = "<group>"; };
+		469AFEA81453DC4000475078 /* FDCMessageEnvelope.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FDCMessageEnvelope.m; sourceTree = "<group>"; };
+		469AFEA91453DC4000475078 /* FDCOAuthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FDCOAuthViewController.h; sourceTree = "<group>"; };
+		469AFEAA1453DC4000475078 /* FDCOAuthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FDCOAuthViewController.m; sourceTree = "<group>"; };
+		469AFEAB1453DC4000475078 /* FDCServerSwitchboard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FDCServerSwitchboard.h; sourceTree = "<group>"; };
+		469AFEAC1453DC4000475078 /* FDCServerSwitchboard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FDCServerSwitchboard.m; sourceTree = "<group>"; };
+		469AFEAD1453DC4000475078 /* FDCServerSwitchboard+Describe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "FDCServerSwitchboard+Describe.h"; sourceTree = "<group>"; };
+		469AFEAE1453DC4000475078 /* FDCServerSwitchboard+Describe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "FDCServerSwitchboard+Describe.m"; sourceTree = "<group>"; };
+		469AFEAF1453DC4000475078 /* FDCServerSwitchboard+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "FDCServerSwitchboard+Private.h"; sourceTree = "<group>"; };
+		469AFEB01453DC4000475078 /* FDCServerSwitchboard+Private.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "FDCServerSwitchboard+Private.m"; sourceTree = "<group>"; };
+		469AFEB11453DC4000475078 /* FDCServerSwitchboard+Utility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "FDCServerSwitchboard+Utility.h"; sourceTree = "<group>"; };
+		469AFEB21453DC4000475078 /* FDCServerSwitchboard+Utility.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "FDCServerSwitchboard+Utility.m"; sourceTree = "<group>"; };
+		469AFEB31453DC4000475078 /* FDCURLConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FDCURLConnection.h; sourceTree = "<group>"; };
+		469AFEB41453DC4000475078 /* FDCURLConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FDCURLConnection.m; sourceTree = "<group>"; };
+		469AFEB51453DC4000475078 /* NSDate+Additions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+Additions.h"; sourceTree = "<group>"; };
+		469AFEB61453DC4000475078 /* NSDate+Additions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+Additions.m"; sourceTree = "<group>"; };
+		469AFEB71453DC4000475078 /* NSObject+Additions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+Additions.h"; sourceTree = "<group>"; };
+		469AFEB81453DC4000475078 /* NSObject+Additions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+Additions.m"; sourceTree = "<group>"; };
+		469AFEB91453DC4000475078 /* NSURL+Additions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSURL+Additions.h"; sourceTree = "<group>"; };
+		469AFEBA1453DC4000475078 /* NSURL+Additions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSURL+Additions.m"; sourceTree = "<group>"; };
+		469AFEBB1453DC4000475078 /* ZKBaseClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKBaseClient.h; sourceTree = "<group>"; };
+		469AFEBC1453DC4000475078 /* ZKBaseClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKBaseClient.m; sourceTree = "<group>"; };
+		469AFEBD1453DC4000475078 /* ZKChildRelationship.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKChildRelationship.h; sourceTree = "<group>"; };
+		469AFEBE1453DC4000475078 /* ZKChildRelationship.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKChildRelationship.m; sourceTree = "<group>"; };
+		469AFEBF1453DC4000475078 /* ZKDescribeButtonSection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKDescribeButtonSection.h; sourceTree = "<group>"; };
+		469AFEC01453DC4000475078 /* ZKDescribeField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKDescribeField.h; sourceTree = "<group>"; };
+		469AFEC11453DC4000475078 /* ZKDescribeField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKDescribeField.m; sourceTree = "<group>"; };
+		469AFEC21453DC4000475078 /* ZKDescribeGlobalSObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKDescribeGlobalSObject.h; sourceTree = "<group>"; };
+		469AFEC31453DC4000475078 /* ZKDescribeGlobalSObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKDescribeGlobalSObject.m; sourceTree = "<group>"; };
+		469AFEC41453DC4000475078 /* ZKDescribeLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKDescribeLayout.h; sourceTree = "<group>"; };
+		469AFEC51453DC4000475078 /* ZKDescribeLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKDescribeLayout.m; sourceTree = "<group>"; };
+		469AFEC61453DC4000475078 /* ZKDescribeLayoutButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKDescribeLayoutButton.h; sourceTree = "<group>"; };
+		469AFEC71453DC4000475078 /* ZKDescribeLayoutButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKDescribeLayoutButton.m; sourceTree = "<group>"; };
+		469AFEC81453DC4000475078 /* ZKDescribeLayoutButtonSection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKDescribeLayoutButtonSection.h; sourceTree = "<group>"; };
+		469AFEC91453DC4000475078 /* ZKDescribeLayoutButtonSection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKDescribeLayoutButtonSection.m; sourceTree = "<group>"; };
+		469AFECA1453DC4000475078 /* ZKDescribeLayoutComponent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKDescribeLayoutComponent.h; sourceTree = "<group>"; };
+		469AFECB1453DC4000475078 /* ZKDescribeLayoutComponent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKDescribeLayoutComponent.m; sourceTree = "<group>"; };
+		469AFECC1453DC4000475078 /* ZKDescribeLayoutItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKDescribeLayoutItem.h; sourceTree = "<group>"; };
+		469AFECD1453DC4000475078 /* ZKDescribeLayoutItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKDescribeLayoutItem.m; sourceTree = "<group>"; };
+		469AFECE1453DC4000475078 /* ZKDescribeLayoutResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKDescribeLayoutResult.h; sourceTree = "<group>"; };
+		469AFECF1453DC4000475078 /* ZKDescribeLayoutResult.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKDescribeLayoutResult.m; sourceTree = "<group>"; };
+		469AFED01453DC4000475078 /* ZKDescribeLayoutRow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKDescribeLayoutRow.h; sourceTree = "<group>"; };
+		469AFED11453DC4000475078 /* ZKDescribeLayoutRow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKDescribeLayoutRow.m; sourceTree = "<group>"; };
+		469AFED21453DC4000475078 /* ZKDescribeLayoutSection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKDescribeLayoutSection.h; sourceTree = "<group>"; };
+		469AFED31453DC4000475078 /* ZKDescribeLayoutSection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKDescribeLayoutSection.m; sourceTree = "<group>"; };
+		469AFED41453DC4000475078 /* ZKDescribeSObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKDescribeSObject.h; sourceTree = "<group>"; };
+		469AFED51453DC4000475078 /* ZKDescribeSObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKDescribeSObject.m; sourceTree = "<group>"; };
+		469AFED61453DC4000475078 /* ZKLoginResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKLoginResult.h; sourceTree = "<group>"; };
+		469AFED71453DC4000475078 /* ZKLoginResult.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKLoginResult.m; sourceTree = "<group>"; };
+		469AFED81453DC4000475078 /* ZKParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKParser.h; sourceTree = "<group>"; };
+		469AFED91453DC4000475078 /* ZKParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKParser.m; sourceTree = "<group>"; };
+		469AFEDA1453DC4000475078 /* ZKPicklistEntry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKPicklistEntry.h; sourceTree = "<group>"; };
+		469AFEDB1453DC4000475078 /* ZKPicklistEntry.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKPicklistEntry.m; sourceTree = "<group>"; };
+		469AFEDC1453DC4000475078 /* ZKPicklistForRecordType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKPicklistForRecordType.h; sourceTree = "<group>"; };
+		469AFEDD1453DC4000475078 /* ZKPicklistForRecordType.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKPicklistForRecordType.m; sourceTree = "<group>"; };
+		469AFEDE1453DC4000475078 /* ZKQueryResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKQueryResult.h; sourceTree = "<group>"; };
+		469AFEDF1453DC4000475078 /* ZKQueryResult.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKQueryResult.m; sourceTree = "<group>"; };
+		469AFEE01453DC4000475078 /* ZKRecordTypeInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKRecordTypeInfo.h; sourceTree = "<group>"; };
+		469AFEE11453DC4000475078 /* ZKRecordTypeInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKRecordTypeInfo.m; sourceTree = "<group>"; };
+		469AFEE21453DC4000475078 /* ZKRecordTypeMapping.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKRecordTypeMapping.h; sourceTree = "<group>"; };
+		469AFEE31453DC4000475078 /* ZKRecordTypeMapping.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKRecordTypeMapping.m; sourceTree = "<group>"; };
+		469AFEE41453DC4000475078 /* ZKRelatedList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKRelatedList.h; sourceTree = "<group>"; };
+		469AFEE51453DC4000475078 /* ZKRelatedList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKRelatedList.m; sourceTree = "<group>"; };
+		469AFEE61453DC4000475078 /* ZKRelatedListColumn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKRelatedListColumn.h; sourceTree = "<group>"; };
+		469AFEE71453DC4000475078 /* ZKRelatedListColumn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKRelatedListColumn.m; sourceTree = "<group>"; };
+		469AFEE81453DC4000475078 /* ZKRelatedListSort.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKRelatedListSort.h; sourceTree = "<group>"; };
+		469AFEE91453DC4000475078 /* ZKRelatedListSort.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKRelatedListSort.m; sourceTree = "<group>"; };
+		469AFEEA1453DC4000475078 /* ZKSaveResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKSaveResult.h; sourceTree = "<group>"; };
+		469AFEEB1453DC4000475078 /* ZKSaveResult.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKSaveResult.m; sourceTree = "<group>"; };
+		469AFEEC1453DC4000475078 /* ZKSforce.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKSforce.h; sourceTree = "<group>"; };
+		469AFEED1453DC4000475078 /* ZKSoapException.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKSoapException.h; sourceTree = "<group>"; };
+		469AFEEE1453DC4000475078 /* ZKSoapException.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKSoapException.m; sourceTree = "<group>"; };
+		469AFEEF1453DC4000475078 /* ZKSObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKSObject.h; sourceTree = "<group>"; };
+		469AFEF01453DC4000475078 /* ZKSObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKSObject.m; sourceTree = "<group>"; };
+		469AFEF11453DC4000475078 /* ZKUserInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKUserInfo.h; sourceTree = "<group>"; };
+		469AFEF21453DC4000475078 /* ZKUserInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKUserInfo.m; sourceTree = "<group>"; };
+		469AFEF31453DC4000475078 /* ZKXmlDeserializer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKXmlDeserializer.h; sourceTree = "<group>"; };
+		469AFEF41453DC4000475078 /* ZKXmlDeserializer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKXmlDeserializer.m; sourceTree = "<group>"; };
+		46AD3B871453D75D00A58302 /* libZKSforce.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libZKSforce.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		46AD3B8A1453D75D00A58302 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		46AD3B8E1453D75D00A58302 /* ZKSforce-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ZKSforce-Prefix.pch"; sourceTree = "<group>"; };
+		46AD3B971453D75D00A58302 /* ZKSforceTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZKSforceTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		46AD3B981453D75D00A58302 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		46AD3B9A1453D75D00A58302 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		46AD3BA21453D75D00A58302 /* ZKSforceTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ZKSforceTests-Info.plist"; sourceTree = "<group>"; };
+		46AD3BA41453D75D00A58302 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		46AD3BA61453D75D00A58302 /* ZKSforceTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZKSforceTests.h; sourceTree = "<group>"; };
+		46AD3BA71453D75D00A58302 /* ZKSforceTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZKSforceTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		46AD3B841453D75D00A58302 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				46AD3B8B1453D75D00A58302 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		46AD3B931453D75D00A58302 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				46AD3B991453D75D00A58302 /* SenTestingKit.framework in Frameworks */,
+				46AD3B9B1453D75D00A58302 /* UIKit.framework in Frameworks */,
+				46AD3B9C1453D75D00A58302 /* Foundation.framework in Frameworks */,
+				46AD3B9F1453D75D00A58302 /* libZKSforce.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		46AD3B7C1453D75C00A58302 = {
+			isa = PBXGroup;
+			children = (
+				46AD3B8C1453D75D00A58302 /* ZKSforce */,
+				46AD3BA01453D75D00A58302 /* ZKSforceTests */,
+				46AD3B891453D75D00A58302 /* Frameworks */,
+				46AD3B881453D75D00A58302 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		46AD3B881453D75D00A58302 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				46AD3B871453D75D00A58302 /* libZKSforce.a */,
+				46AD3B971453D75D00A58302 /* ZKSforceTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		46AD3B891453D75D00A58302 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				46AD3B8A1453D75D00A58302 /* Foundation.framework */,
+				46AD3B981453D75D00A58302 /* SenTestingKit.framework */,
+				46AD3B9A1453D75D00A58302 /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		46AD3B8C1453D75D00A58302 /* ZKSforce */ = {
+			isa = PBXGroup;
+			children = (
+				469AFE9D1453DC4000475078 /* FDCDeletedObject.h */,
+				469AFE9E1453DC4000475078 /* FDCDeletedObject.m */,
+				469AFE9F1453DC4000475078 /* FDCEmailMessage.h */,
+				469AFEA01453DC4000475078 /* FDCEmailMessage.m */,
+				469AFEA11453DC4000475078 /* FDCGetDeletedResult.h */,
+				469AFEA21453DC4000475078 /* FDCGetDeletedResult.m */,
+				469AFEA31453DC4000475078 /* FDCGetUpdatedResult.h */,
+				469AFEA41453DC4000475078 /* FDCGetUpdatedResult.m */,
+				469AFEA51453DC4000475078 /* FDCMessageElement.h */,
+				469AFEA61453DC4000475078 /* FDCMessageElement.m */,
+				469AFEA71453DC4000475078 /* FDCMessageEnvelope.h */,
+				469AFEA81453DC4000475078 /* FDCMessageEnvelope.m */,
+				469AFEA91453DC4000475078 /* FDCOAuthViewController.h */,
+				469AFEAA1453DC4000475078 /* FDCOAuthViewController.m */,
+				469AFEAB1453DC4000475078 /* FDCServerSwitchboard.h */,
+				469AFEAC1453DC4000475078 /* FDCServerSwitchboard.m */,
+				469AFEAD1453DC4000475078 /* FDCServerSwitchboard+Describe.h */,
+				469AFEAE1453DC4000475078 /* FDCServerSwitchboard+Describe.m */,
+				469AFEAF1453DC4000475078 /* FDCServerSwitchboard+Private.h */,
+				469AFEB01453DC4000475078 /* FDCServerSwitchboard+Private.m */,
+				469AFEB11453DC4000475078 /* FDCServerSwitchboard+Utility.h */,
+				469AFEB21453DC4000475078 /* FDCServerSwitchboard+Utility.m */,
+				469AFEB31453DC4000475078 /* FDCURLConnection.h */,
+				469AFEB41453DC4000475078 /* FDCURLConnection.m */,
+				469AFEB51453DC4000475078 /* NSDate+Additions.h */,
+				469AFEB61453DC4000475078 /* NSDate+Additions.m */,
+				469AFEB71453DC4000475078 /* NSObject+Additions.h */,
+				469AFEB81453DC4000475078 /* NSObject+Additions.m */,
+				469AFEB91453DC4000475078 /* NSURL+Additions.h */,
+				469AFEBA1453DC4000475078 /* NSURL+Additions.m */,
+				469AFEBB1453DC4000475078 /* ZKBaseClient.h */,
+				469AFEBC1453DC4000475078 /* ZKBaseClient.m */,
+				469AFEBD1453DC4000475078 /* ZKChildRelationship.h */,
+				469AFEBE1453DC4000475078 /* ZKChildRelationship.m */,
+				469AFEBF1453DC4000475078 /* ZKDescribeButtonSection.h */,
+				469AFEC01453DC4000475078 /* ZKDescribeField.h */,
+				469AFEC11453DC4000475078 /* ZKDescribeField.m */,
+				469AFEC21453DC4000475078 /* ZKDescribeGlobalSObject.h */,
+				469AFEC31453DC4000475078 /* ZKDescribeGlobalSObject.m */,
+				469AFEC41453DC4000475078 /* ZKDescribeLayout.h */,
+				469AFEC51453DC4000475078 /* ZKDescribeLayout.m */,
+				469AFEC61453DC4000475078 /* ZKDescribeLayoutButton.h */,
+				469AFEC71453DC4000475078 /* ZKDescribeLayoutButton.m */,
+				469AFEC81453DC4000475078 /* ZKDescribeLayoutButtonSection.h */,
+				469AFEC91453DC4000475078 /* ZKDescribeLayoutButtonSection.m */,
+				469AFECA1453DC4000475078 /* ZKDescribeLayoutComponent.h */,
+				469AFECB1453DC4000475078 /* ZKDescribeLayoutComponent.m */,
+				469AFECC1453DC4000475078 /* ZKDescribeLayoutItem.h */,
+				469AFECD1453DC4000475078 /* ZKDescribeLayoutItem.m */,
+				469AFECE1453DC4000475078 /* ZKDescribeLayoutResult.h */,
+				469AFECF1453DC4000475078 /* ZKDescribeLayoutResult.m */,
+				469AFED01453DC4000475078 /* ZKDescribeLayoutRow.h */,
+				469AFED11453DC4000475078 /* ZKDescribeLayoutRow.m */,
+				469AFED21453DC4000475078 /* ZKDescribeLayoutSection.h */,
+				469AFED31453DC4000475078 /* ZKDescribeLayoutSection.m */,
+				469AFED41453DC4000475078 /* ZKDescribeSObject.h */,
+				469AFED51453DC4000475078 /* ZKDescribeSObject.m */,
+				469AFED61453DC4000475078 /* ZKLoginResult.h */,
+				469AFED71453DC4000475078 /* ZKLoginResult.m */,
+				469AFED81453DC4000475078 /* ZKParser.h */,
+				469AFED91453DC4000475078 /* ZKParser.m */,
+				469AFEDA1453DC4000475078 /* ZKPicklistEntry.h */,
+				469AFEDB1453DC4000475078 /* ZKPicklistEntry.m */,
+				469AFEDC1453DC4000475078 /* ZKPicklistForRecordType.h */,
+				469AFEDD1453DC4000475078 /* ZKPicklistForRecordType.m */,
+				469AFEDE1453DC4000475078 /* ZKQueryResult.h */,
+				469AFEDF1453DC4000475078 /* ZKQueryResult.m */,
+				469AFEE01453DC4000475078 /* ZKRecordTypeInfo.h */,
+				469AFEE11453DC4000475078 /* ZKRecordTypeInfo.m */,
+				469AFEE21453DC4000475078 /* ZKRecordTypeMapping.h */,
+				469AFEE31453DC4000475078 /* ZKRecordTypeMapping.m */,
+				469AFEE41453DC4000475078 /* ZKRelatedList.h */,
+				469AFEE51453DC4000475078 /* ZKRelatedList.m */,
+				469AFEE61453DC4000475078 /* ZKRelatedListColumn.h */,
+				469AFEE71453DC4000475078 /* ZKRelatedListColumn.m */,
+				469AFEE81453DC4000475078 /* ZKRelatedListSort.h */,
+				469AFEE91453DC4000475078 /* ZKRelatedListSort.m */,
+				469AFEEA1453DC4000475078 /* ZKSaveResult.h */,
+				469AFEEB1453DC4000475078 /* ZKSaveResult.m */,
+				469AFEEC1453DC4000475078 /* ZKSforce.h */,
+				469AFEED1453DC4000475078 /* ZKSoapException.h */,
+				469AFEEE1453DC4000475078 /* ZKSoapException.m */,
+				469AFEEF1453DC4000475078 /* ZKSObject.h */,
+				469AFEF01453DC4000475078 /* ZKSObject.m */,
+				469AFEF11453DC4000475078 /* ZKUserInfo.h */,
+				469AFEF21453DC4000475078 /* ZKUserInfo.m */,
+				469AFEF31453DC4000475078 /* ZKXmlDeserializer.h */,
+				469AFEF41453DC4000475078 /* ZKXmlDeserializer.m */,
+				46AD3B8D1453D75D00A58302 /* Supporting Files */,
+			);
+			path = ZKSforce;
+			sourceTree = "<group>";
+		};
+		46AD3B8D1453D75D00A58302 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				46AD3B8E1453D75D00A58302 /* ZKSforce-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		46AD3BA01453D75D00A58302 /* ZKSforceTests */ = {
+			isa = PBXGroup;
+			children = (
+				46AD3BA61453D75D00A58302 /* ZKSforceTests.h */,
+				46AD3BA71453D75D00A58302 /* ZKSforceTests.m */,
+				46AD3BA11453D75D00A58302 /* Supporting Files */,
+			);
+			path = ZKSforceTests;
+			sourceTree = "<group>";
+		};
+		46AD3BA11453D75D00A58302 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				46AD3BA21453D75D00A58302 /* ZKSforceTests-Info.plist */,
+				46AD3BA31453D75D00A58302 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		46AD3B851453D75D00A58302 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				469AFEF51453DC4000475078 /* FDCDeletedObject.h in Headers */,
+				469AFEF71453DC4000475078 /* FDCEmailMessage.h in Headers */,
+				469AFEF91453DC4000475078 /* FDCGetDeletedResult.h in Headers */,
+				469AFEFB1453DC4000475078 /* FDCGetUpdatedResult.h in Headers */,
+				469AFEFD1453DC4000475078 /* FDCMessageElement.h in Headers */,
+				469AFEFF1453DC4000475078 /* FDCMessageEnvelope.h in Headers */,
+				469AFF011453DC4000475078 /* FDCOAuthViewController.h in Headers */,
+				469AFF031453DC4000475078 /* FDCServerSwitchboard.h in Headers */,
+				469AFF051453DC4000475078 /* FDCServerSwitchboard+Describe.h in Headers */,
+				469AFF071453DC4000475078 /* FDCServerSwitchboard+Private.h in Headers */,
+				469AFF091453DC4000475078 /* FDCServerSwitchboard+Utility.h in Headers */,
+				469AFF0B1453DC4000475078 /* FDCURLConnection.h in Headers */,
+				469AFF0D1453DC4000475078 /* NSDate+Additions.h in Headers */,
+				469AFF0F1453DC4000475078 /* NSObject+Additions.h in Headers */,
+				469AFF111453DC4000475078 /* NSURL+Additions.h in Headers */,
+				469AFF131453DC4000475078 /* ZKBaseClient.h in Headers */,
+				469AFF151453DC4000475078 /* ZKChildRelationship.h in Headers */,
+				469AFF171453DC4000475078 /* ZKDescribeButtonSection.h in Headers */,
+				469AFF181453DC4000475078 /* ZKDescribeField.h in Headers */,
+				469AFF1A1453DC4000475078 /* ZKDescribeGlobalSObject.h in Headers */,
+				469AFF1C1453DC4000475078 /* ZKDescribeLayout.h in Headers */,
+				469AFF1E1453DC4000475078 /* ZKDescribeLayoutButton.h in Headers */,
+				469AFF201453DC4000475078 /* ZKDescribeLayoutButtonSection.h in Headers */,
+				469AFF221453DC4000475078 /* ZKDescribeLayoutComponent.h in Headers */,
+				469AFF241453DC4000475078 /* ZKDescribeLayoutItem.h in Headers */,
+				469AFF261453DC4000475078 /* ZKDescribeLayoutResult.h in Headers */,
+				469AFF281453DC4000475078 /* ZKDescribeLayoutRow.h in Headers */,
+				469AFF2A1453DC4000475078 /* ZKDescribeLayoutSection.h in Headers */,
+				469AFF2C1453DC4000475078 /* ZKDescribeSObject.h in Headers */,
+				469AFF2E1453DC4000475078 /* ZKLoginResult.h in Headers */,
+				469AFF301453DC4000475078 /* ZKParser.h in Headers */,
+				469AFF321453DC4000475078 /* ZKPicklistEntry.h in Headers */,
+				469AFF341453DC4000475078 /* ZKPicklistForRecordType.h in Headers */,
+				469AFF361453DC4000475078 /* ZKQueryResult.h in Headers */,
+				469AFF381453DC4000475078 /* ZKRecordTypeInfo.h in Headers */,
+				469AFF3A1453DC4000475078 /* ZKRecordTypeMapping.h in Headers */,
+				469AFF3C1453DC4000475078 /* ZKRelatedList.h in Headers */,
+				469AFF3E1453DC4000475078 /* ZKRelatedListColumn.h in Headers */,
+				469AFF401453DC4000475078 /* ZKRelatedListSort.h in Headers */,
+				469AFF421453DC4000475078 /* ZKSaveResult.h in Headers */,
+				469AFF441453DC4000475078 /* ZKSforce.h in Headers */,
+				469AFF451453DC4000475078 /* ZKSoapException.h in Headers */,
+				469AFF471453DC4000475078 /* ZKSObject.h in Headers */,
+				469AFF491453DC4000475078 /* ZKUserInfo.h in Headers */,
+				469AFF4B1453DC4000475078 /* ZKXmlDeserializer.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		46AD3B861453D75D00A58302 /* ZKSforce */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 46AD3BAB1453D75D00A58302 /* Build configuration list for PBXNativeTarget "ZKSforce" */;
+			buildPhases = (
+				46AD3B831453D75D00A58302 /* Sources */,
+				46AD3B841453D75D00A58302 /* Frameworks */,
+				46AD3B851453D75D00A58302 /* Headers */,
+				469AFF541453DFB900475078 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ZKSforce;
+			productName = ZKSforce;
+			productReference = 46AD3B871453D75D00A58302 /* libZKSforce.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		46AD3B961453D75D00A58302 /* ZKSforceTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 46AD3BAE1453D75D00A58302 /* Build configuration list for PBXNativeTarget "ZKSforceTests" */;
+			buildPhases = (
+				46AD3B921453D75D00A58302 /* Sources */,
+				46AD3B931453D75D00A58302 /* Frameworks */,
+				46AD3B941453D75D00A58302 /* Resources */,
+				46AD3B951453D75D00A58302 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				46AD3B9E1453D75D00A58302 /* PBXTargetDependency */,
+			);
+			name = ZKSforceTests;
+			productName = ZKSforceTests;
+			productReference = 46AD3B971453D75D00A58302 /* ZKSforceTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		46AD3B7E1453D75C00A58302 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 46AD3B811453D75C00A58302 /* Build configuration list for PBXProject "ZKSforce" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 46AD3B7C1453D75C00A58302;
+			productRefGroup = 46AD3B881453D75D00A58302 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				46AD3B861453D75D00A58302 /* ZKSforce */,
+				46AD3B961453D75D00A58302 /* ZKSforceTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		46AD3B941453D75D00A58302 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				46AD3BA51453D75D00A58302 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		469AFF541453DFB900475078 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Version 2.0 (updated for Xcode 4, with some fixes)\n# Changes:\n#    - Works with xcode 4, even when running xcode 3 projects (Workarounds for apple bugs)\n#    - Faster / better: only runs lipo once, instead of once per recursion\n#    - Added some debugging statemetns that can be switched on/off by changing the DEBUG_THIS_SCRIPT variable to \"true\"\n#    - Fixed some typos\n# \n# Purpose:\n#   Create a static library for iPhone from within XCode\n#   Because Apple staff DELIBERATELY broke Xcode to make this impossible from the GUI (Xcode 3.2.3 specifically states this in the Release notes!)\n#   ...no, I don't understand why they did this!\n#\n# Author: Adam Martin - http://twitter.com/redglassesapps\n# Based on: original script from Eonil (main changes: Eonil's script WILL NOT WORK in Xcode GUI - it WILL CRASH YOUR COMPUTER)\n#\n# More info: see this Stack Overflow question: http://stackoverflow.com/questions/3520977/build-fat-static-library-device-simulator-using-xcode-and-sdk-4\n#################[ Tests: helps workaround any future bugs in Xcode ]########\n#\nDEBUG_THIS_SCRIPT=\"false\"\nif [ $DEBUG_THIS_SCRIPT = \"true\" ]\nthen\necho \"########### TESTS #############\"\necho \"Use the following variables when debugging this script; note that they may change on recursions\"\necho \"BUILD_DIR = $BUILD_DIR\"\necho \"BUILD_ROOT = $BUILD_ROOT\"\necho \"CONFIGURATION_BUILD_DIR = $CONFIGURATION_BUILD_DIR\"\necho \"BUILT_PRODUCTS_DIR = $BUILT_PRODUCTS_DIR\"\necho \"CONFIGURATION_TEMP_DIR = $CONFIGURATION_TEMP_DIR\"\necho \"TARGET_BUILD_DIR = $TARGET_BUILD_DIR\"\nfi\n#####################[ part 1 ]##################\n# First, work out the BASESDK version number (NB: Apple ought to report this, but they hide it)\n#    (incidental: searching for substrings in sh is a nightmare! Sob)\nSDK_VERSION=$(echo ${SDK_NAME} | grep -o '.\\{3\\}$')\n# Next, work out if we're in SIM or DEVICE\nif [ ${PLATFORM_NAME} = \"iphonesimulator\" ]\nthen\nOTHER_SDK_TO_BUILD=iphoneos${SDK_VERSION}\nelse\nOTHER_SDK_TO_BUILD=iphonesimulator${SDK_VERSION}\nfi\necho \"XCode has selected SDK: ${PLATFORM_NAME} with version: ${SDK_VERSION} (although back-targetting: ${IPHONEOS_DEPLOYMENT_TARGET})\"\necho \"...therefore, OTHER_SDK_TO_BUILD = ${OTHER_SDK_TO_BUILD}\"\n#\n#####################[ end of part 1 ]##################\n#####################[ part 2 ]##################\n#\n# IF this is the original invocation, invoke WHATEVER other builds are required\n#\n# Xcode is already building ONE target...\n#\n# ...but this is a LIBRARY, so Apple is wrong to set it to build just one.\n# ...we need to build ALL targets\n# ...we MUST NOT re-build the target that is ALREADY being built: Xcode WILL CRASH YOUR COMPUTER if you try this (infinite recursion!)\n#\n#\n# So: build ONLY the missing platforms/configurations.\nif [ \"true\" == ${ALREADYINVOKED:-false} ]\nthen\necho \"RECURSION: I am NOT the root invocation, so I'm NOT going to recurse\"\nelse\n# CRITICAL:\n# Prevent infinite recursion (Xcode sucks)\nexport ALREADYINVOKED=\"true\"\necho \"RECURSION: I am the root ... recursing all missing build targets NOW...\"\necho \"RECURSION: ...about to invoke: xcodebuild -configuration \\\"${CONFIGURATION}\\\" -target \\\"${TARGET_NAME}\\\" -sdk \\\"${OTHER_SDK_TO_BUILD}\\\" ${ACTION} RUN_CLANG_STATIC_ANALYZER=NO\"\n#Merge all platform binaries as a fat binary for each configurations.\n# Calculate where the (multiple) built files are coming from:\nCURRENTCONFIG_DEVICE_DIR=\"../lib/emPATH-iphoneos\"\nCURRENTCONFIG_SIMULATOR_DIR=\"../lib/emPATH-iphonesimulator\"\necho \"Taking device build from: ../lib/emPATH-iphoneos\"\necho \"Taking simulator build from: ../lib/emPATH-iphonesimulator\"\nCREATING_UNIVERSAL_DIR=\"../lib\"\necho \"...I will output a universal build to: ../lib\"\necho \"lipo: for current configuration (${CONFIGURATION}) creating output file: ${CREATING_UNIVERSAL_DIR}/${EXECUTABLE_NAME}\"\nxcodebuild -configuration \"${CONFIGURATION}\" -target \"${TARGET_NAME}\" -sdk \"${OTHER_SDK_TO_BUILD}\" ${ACTION} RUN_CLANG_STATIC_ANALYZER=NO BUILD_DIR=\"${BUILD_DIR}\" BUILD_ROOT=\"${BUILD_ROOT}\"\nACTION=\"build\"\n# ... remove the products of previous runs of this script\n#      NB: this directory is ONLY created by this script - it should be safe to delete!\n#rm -rf \"${CREATING_UNIVERSAL_DIR}\"\n#mkdir \"${CREATING_UNIVERSAL_DIR}\"\n#\necho \"lipo: for current configuration (${CONFIGURATION}) creating output file: ${CREATING_UNIVERSAL_DIR}/${EXECUTABLE_NAME}\"\nlipo -create -output \"${CREATING_UNIVERSAL_DIR}/${EXECUTABLE_NAME}\" \"${CURRENTCONFIG_DEVICE_DIR}/${EXECUTABLE_NAME}\" \"${CURRENTCONFIG_SIMULATOR_DIR}/${EXECUTABLE_NAME}\"\n#########\n#\n# Added: StackOverflow suggestion to also copy \"include\" files\n#    (untested, but should work OK)\n#\nif [ -d \"${CURRENTCONFIG_DEVICE_DIR}/usr/local/include\" ]\nthen\nmkdir -p \"${CREATING_UNIVERSAL_DIR}/usr/local/include\"\n# * needs to be outside the double quotes?\ncp \"${CURRENTCONFIG_DEVICE_DIR}/usr/local/include/\"* \"${CREATING_UNIVERSAL_DIR}/usr/local/include\"\nfi\nfi";
+		};
+		46AD3B951453D75D00A58302 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		46AD3B831453D75D00A58302 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				469AFEF61453DC4000475078 /* FDCDeletedObject.m in Sources */,
+				469AFEF81453DC4000475078 /* FDCEmailMessage.m in Sources */,
+				469AFEFA1453DC4000475078 /* FDCGetDeletedResult.m in Sources */,
+				469AFEFC1453DC4000475078 /* FDCGetUpdatedResult.m in Sources */,
+				469AFEFE1453DC4000475078 /* FDCMessageElement.m in Sources */,
+				469AFF001453DC4000475078 /* FDCMessageEnvelope.m in Sources */,
+				469AFF021453DC4000475078 /* FDCOAuthViewController.m in Sources */,
+				469AFF041453DC4000475078 /* FDCServerSwitchboard.m in Sources */,
+				469AFF061453DC4000475078 /* FDCServerSwitchboard+Describe.m in Sources */,
+				469AFF081453DC4000475078 /* FDCServerSwitchboard+Private.m in Sources */,
+				469AFF0A1453DC4000475078 /* FDCServerSwitchboard+Utility.m in Sources */,
+				469AFF0C1453DC4000475078 /* FDCURLConnection.m in Sources */,
+				469AFF0E1453DC4000475078 /* NSDate+Additions.m in Sources */,
+				469AFF101453DC4000475078 /* NSObject+Additions.m in Sources */,
+				469AFF121453DC4000475078 /* NSURL+Additions.m in Sources */,
+				469AFF141453DC4000475078 /* ZKBaseClient.m in Sources */,
+				469AFF161453DC4000475078 /* ZKChildRelationship.m in Sources */,
+				469AFF191453DC4000475078 /* ZKDescribeField.m in Sources */,
+				469AFF1B1453DC4000475078 /* ZKDescribeGlobalSObject.m in Sources */,
+				469AFF1D1453DC4000475078 /* ZKDescribeLayout.m in Sources */,
+				469AFF1F1453DC4000475078 /* ZKDescribeLayoutButton.m in Sources */,
+				469AFF211453DC4000475078 /* ZKDescribeLayoutButtonSection.m in Sources */,
+				469AFF231453DC4000475078 /* ZKDescribeLayoutComponent.m in Sources */,
+				469AFF251453DC4000475078 /* ZKDescribeLayoutItem.m in Sources */,
+				469AFF271453DC4000475078 /* ZKDescribeLayoutResult.m in Sources */,
+				469AFF291453DC4000475078 /* ZKDescribeLayoutRow.m in Sources */,
+				469AFF2B1453DC4000475078 /* ZKDescribeLayoutSection.m in Sources */,
+				469AFF2D1453DC4000475078 /* ZKDescribeSObject.m in Sources */,
+				469AFF2F1453DC4000475078 /* ZKLoginResult.m in Sources */,
+				469AFF311453DC4000475078 /* ZKParser.m in Sources */,
+				469AFF331453DC4000475078 /* ZKPicklistEntry.m in Sources */,
+				469AFF351453DC4000475078 /* ZKPicklistForRecordType.m in Sources */,
+				469AFF371453DC4000475078 /* ZKQueryResult.m in Sources */,
+				469AFF391453DC4000475078 /* ZKRecordTypeInfo.m in Sources */,
+				469AFF3B1453DC4000475078 /* ZKRecordTypeMapping.m in Sources */,
+				469AFF3D1453DC4000475078 /* ZKRelatedList.m in Sources */,
+				469AFF3F1453DC4000475078 /* ZKRelatedListColumn.m in Sources */,
+				469AFF411453DC4000475078 /* ZKRelatedListSort.m in Sources */,
+				469AFF431453DC4000475078 /* ZKSaveResult.m in Sources */,
+				469AFF461453DC4000475078 /* ZKSoapException.m in Sources */,
+				469AFF481453DC4000475078 /* ZKSObject.m in Sources */,
+				469AFF4A1453DC4000475078 /* ZKUserInfo.m in Sources */,
+				469AFF4C1453DC4000475078 /* ZKXmlDeserializer.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		46AD3B921453D75D00A58302 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				46AD3BA81453D75D00A58302 /* ZKSforceTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		46AD3B9E1453D75D00A58302 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 46AD3B861453D75D00A58302 /* ZKSforce */;
+			targetProxy = 46AD3B9D1453D75D00A58302 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		46AD3BA31453D75D00A58302 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				46AD3BA41453D75D00A58302 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		46AD3BA91453D75D00A58302 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		46AD3BAA1453D75D00A58302 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		46AD3BAC1453D75D00A58302 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Larry Suarez (WCP62N4R35)";
+				CONFIGURATION_TEMP_DIR = "";
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = ..;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ZKSforce/ZKSforce-Prefix.pch";
+				GCC_VERSION = "";
+				HEADER_SEARCH_PATHS = (
+					/usr/include/objc,
+					/usr/include/libxml2,
+				);
+				INSTALL_PATH = /lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "08B986CF-8876-4CBF-BFD9-2E2065BBB0D6";
+				SEPARATE_STRIP = NO;
+				SHARED_PRECOMPS_DIR = "";
+				SKIP_INSTALL = NO;
+				SYMROOT = "";
+				USER_HEADER_SEARCH_PATHS = "/usr/include/objc /usr/include/libxml2";
+			};
+			name = Debug;
+		};
+		46AD3BAD1453D75D00A58302 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Larry Suarez (WCP62N4R35)";
+				CONFIGURATION_TEMP_DIR = "";
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = ..;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ZKSforce/ZKSforce-Prefix.pch";
+				GCC_VERSION = "";
+				HEADER_SEARCH_PATHS = (
+					/usr/include/objc,
+					/usr/include/libxml2,
+				);
+				INSTALL_PATH = /lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "08B986CF-8876-4CBF-BFD9-2E2065BBB0D6";
+				SEPARATE_STRIP = NO;
+				SHARED_PRECOMPS_DIR = "";
+				SKIP_INSTALL = NO;
+				SYMROOT = "";
+				USER_HEADER_SEARCH_PATHS = "/usr/include/objc /usr/include/libxml2";
+			};
+			name = Release;
+		};
+		46AD3BAF1453D75D00A58302 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ZKSforce/ZKSforce-Prefix.pch";
+				INFOPLIST_FILE = "ZKSforceTests/ZKSforceTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		46AD3BB01453D75D00A58302 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ZKSforce/ZKSforce-Prefix.pch";
+				INFOPLIST_FILE = "ZKSforceTests/ZKSforceTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		46AD3B811453D75C00A58302 /* Build configuration list for PBXProject "ZKSforce" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				46AD3BA91453D75D00A58302 /* Debug */,
+				46AD3BAA1453D75D00A58302 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		46AD3BAB1453D75D00A58302 /* Build configuration list for PBXNativeTarget "ZKSforce" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				46AD3BAC1453D75D00A58302 /* Debug */,
+				46AD3BAD1453D75D00A58302 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		46AD3BAE1453D75D00A58302 /* Build configuration list for PBXNativeTarget "ZKSforceTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				46AD3BAF1453D75D00A58302 /* Debug */,
+				46AD3BB01453D75D00A58302 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 46AD3B7E1453D75C00A58302 /* Project object */;
+}

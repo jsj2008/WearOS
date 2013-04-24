@@ -1,0 +1,386 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CPTestApp_iPhoneAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1553, 832}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 570}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CPTestApp_iPhoneAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1553, 832}}";
+			sepNavSelRange = "{438, 0}";
+			sepNavVisRange = "{0, 929}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CPTestApp-iPhone */ = {
+		activeExec = 0;
+		executables = (
+			E7E5B0AF118B6AA50012C39D /* CPTestApp-iPhone */,
+		);
+	};
+	28216C950DB411BC00E5133A /* CPTestAppBarChartController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1553, 832}}";
+			sepNavSelRange = "{200, 9}";
+			sepNavVisRange = "{0, 229}";
+		};
+	};
+	28216C960DB411BC00E5133A /* CPTestAppBarChartController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 1846}}";
+			sepNavSelRange = "{3101, 10}";
+			sepNavVisRange = "{3074, 477}";
+			sepNavWindowFrame = "{{15, 390}, {1624, 783}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E7E5B0AF118B6AA50012C39D /* CPTestApp-iPhone */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CPTestApp-iPhone */;
+		codeSenseManager = E7E5B0B5118B6AC40012C39D /* Code sense */;
+		executables = (
+			E7E5B0AF118B6AA50012C39D /* CPTestApp-iPhone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1375,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					332,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 294798554;
+			PBXWorkspaceStateSaveDate = 294798554;
+		};
+		perUserProjectItems = {
+			E79CD28D1192896F00226414 /* PBXTextBookmark */ = E79CD28D1192896F00226414 /* PBXTextBookmark */;
+			E79CD28E1192896F00226414 /* PBXTextBookmark */ = E79CD28E1192896F00226414 /* PBXTextBookmark */;
+			E79CD2901192896F00226414 /* PBXTextBookmark */ = E79CD2901192896F00226414 /* PBXTextBookmark */;
+			E79CD2921192896F00226414 /* PBXTextBookmark */ = E79CD2921192896F00226414 /* PBXTextBookmark */;
+			E79CD2941192896F00226414 /* PBXTextBookmark */ = E79CD2941192896F00226414 /* PBXTextBookmark */;
+			E79CD2951192896F00226414 /* PBXTextBookmark */ = E79CD2951192896F00226414 /* PBXTextBookmark */;
+			E79CD2961192896F00226414 /* PBXTextBookmark */ = E79CD2961192896F00226414 /* PBXTextBookmark */;
+			E79CD2971192896F00226414 /* PBXTextBookmark */ = E79CD2971192896F00226414 /* PBXTextBookmark */;
+			E79CD5671196031400226414 /* PBXTextBookmark */ = E79CD5671196031400226414 /* PBXTextBookmark */;
+			E79CD5691196031400226414 /* PBXTextBookmark */ = E79CD5691196031400226414 /* PBXTextBookmark */;
+			E79CD56A1196031400226414 /* PBXTextBookmark */ = E79CD56A1196031400226414 /* PBXTextBookmark */;
+			E79CD56C1196031400226414 /* PBXTextBookmark */ = E79CD56C1196031400226414 /* PBXTextBookmark */;
+			E79CD56E1196031400226414 /* PBXTextBookmark */ = E79CD56E1196031400226414 /* PBXTextBookmark */;
+			E7E5B1EC118F0BC50012C39D /* PBXTextBookmark */ = E7E5B1EC118F0BC50012C39D /* PBXTextBookmark */;
+			E7E5B1ED118F0BC50012C39D /* PBXTextBookmark */ = E7E5B1ED118F0BC50012C39D /* PBXTextBookmark */;
+		};
+		sourceControlManager = E7E5B0B4118B6AC40012C39D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	BC74A33810FC40C600E7E90D /* CPTestAppPieChartController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {579, 612}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 283}";
+		};
+	};
+	BC74A33910FC40C600E7E90D /* CPTestAppPieChartController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1237, 1053}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1346}";
+		};
+	};
+	BC9B84380FB8B76B0035D8DA /* CPTestAppScatterPlotController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1553, 832}}";
+			sepNavSelRange = "{266, 0}";
+			sepNavVisRange = "{0, 377}";
+			sepNavWindowFrame = "{{153, 264}, {1624, 783}}";
+		};
+	};
+	BC9B84390FB8B76B0035D8DA /* CPTestAppScatterPlotController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1553, 2106}}";
+			sepNavSelRange = "{303, 44}";
+			sepNavVisRange = "{2154, 3290}";
+		};
+	};
+	E79CD28D1192896F00226414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC9B84380FB8B76B0035D8DA /* CPTestAppScatterPlotController.h */;
+		name = "CPTestAppScatterPlotController.h: 13";
+		rLen = 0;
+		rLoc = 266;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 0;
+	};
+	E79CD28E1192896F00226414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E79CD28F1192896F00226414 /* CPXYGraph.h */;
+		name = "CPXYGraph.h: 5";
+		rLen = 7;
+		rLoc = 104;
+		rType = 0;
+		vrLen = 340;
+		vrLoc = 0;
+	};
+	E79CD28F1192896F00226414 /* CPXYGraph.h */ = {
+		isa = PBXFileReference;
+		name = CPXYGraph.h;
+		path = "/Users/alan/dev/StopSmoking/core-plot/framework/Source/CPXYGraph.h";
+		sourceTree = "<absolute>";
+	};
+	E79CD2901192896F00226414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E79CD2911192896F00226414 /* CPPlotAreaFrame.h */;
+		name = "CPPlotAreaFrame.h: 7";
+		rLen = 47;
+		rLoc = 87;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	E79CD2911192896F00226414 /* CPPlotAreaFrame.h */ = {
+		isa = PBXFileReference;
+		name = CPPlotAreaFrame.h;
+		path = "/Users/alan/dev/StopSmoking/core-plot/framework/Source/CPPlotAreaFrame.h";
+		sourceTree = "<absolute>";
+	};
+	E79CD2921192896F00226414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E79CD2931192896F00226414 /* CPGraph.h */;
+		name = "CPGraph.h: 33";
+		rLen = 11;
+		rLoc = 871;
+		rType = 0;
+		vrLen = 1841;
+		vrLoc = 91;
+	};
+	E79CD2931192896F00226414 /* CPGraph.h */ = {
+		isa = PBXFileReference;
+		name = CPGraph.h;
+		path = "/Users/alan/dev/StopSmoking/core-plot/framework/Source/CPGraph.h";
+		sourceTree = "<absolute>";
+	};
+	E79CD2941192896F00226414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C950DB411BC00E5133A /* CPTestAppBarChartController.h */;
+		name = "CPTestAppBarChartController.h: 11";
+		rLen = 9;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 229;
+		vrLoc = 0;
+	};
+	E79CD2951192896F00226414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CPTestApp_iPhoneAppDelegate.m */;
+		name = "CPTestApp_iPhoneAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 438;
+		rType = 0;
+		vrLen = 929;
+		vrLoc = 0;
+	};
+	E79CD2961192896F00226414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CPTestApp_iPhoneAppDelegate.h */;
+		name = "CPTestApp_iPhoneAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 570;
+		vrLoc = 0;
+	};
+	E79CD2971192896F00226414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC9B84390FB8B76B0035D8DA /* CPTestAppScatterPlotController.m */;
+		name = "CPTestAppScatterPlotController.m: 19";
+		rLen = 44;
+		rLoc = 303;
+		rType = 0;
+		vrLen = 3290;
+		vrLoc = 2154;
+	};
+	E79CD5671196031400226414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E79CD5681196031400226414 /* NSDecimalNumber.h */;
+		name = "NSDecimalNumber.h: 35";
+		rLen = 40;
+		rLoc = 1113;
+		rType = 0;
+		vrLen = 2897;
+		vrLoc = 632;
+	};
+	E79CD5681196031400226414 /* NSDecimalNumber.h */ = {
+		isa = PBXFileReference;
+		name = NSDecimalNumber.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDecimalNumber.h;
+		sourceTree = "<absolute>";
+	};
+	E79CD5691196031400226414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* CPTestAppBarChartController.m */;
+		name = "CPTestAppBarChartController.m: 77";
+		rLen = 9;
+		rLoc = 2860;
+		rType = 0;
+		vrLen = 2652;
+		vrLoc = 1536;
+	};
+	E79CD56A1196031400226414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E79CD56B1196031400226414 /* CPBarPlot.h */;
+		name = "CPBarPlot.h: 69";
+		rLen = 17;
+		rLoc = 1978;
+		rType = 0;
+		vrLen = 2216;
+		vrLoc = 605;
+	};
+	E79CD56B1196031400226414 /* CPBarPlot.h */ = {
+		isa = PBXFileReference;
+		name = CPBarPlot.h;
+		path = "/Users/alan/dev/StopSmoking/core-plot/framework/Source/CPBarPlot.h";
+		sourceTree = "<absolute>";
+	};
+	E79CD56C1196031400226414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E79CD56D1196031400226414 /* CPBarPlot.m */;
+		name = "CPBarPlot.m: 475";
+		rLen = 14;
+		rLoc = 16750;
+		rType = 0;
+		vrLen = 2918;
+		vrLoc = 16682;
+	};
+	E79CD56D1196031400226414 /* CPBarPlot.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CPBarPlot.m;
+		path = "/Users/alan/dev/StopSmoking/core-plot/framework/Source/CPBarPlot.m";
+		sourceTree = "<absolute>";
+	};
+	E79CD56E1196031400226414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E79CD56F1196031400226414 /* CPBarPlot.m */;
+		name = "CPBarPlot.m: 475";
+		rLen = 14;
+		rLoc = 16750;
+		rType = 0;
+		vrLen = 2894;
+		vrLoc = 16706;
+	};
+	E79CD56F1196031400226414 /* CPBarPlot.m */ = {
+		isa = PBXFileReference;
+		name = CPBarPlot.m;
+		path = "/Users/alan/dev/StopSmoking/core-plot/framework/Source/CPBarPlot.m";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1553, 8359}}";
+			sepNavSelRange = "{16750, 14}";
+			sepNavVisRange = "{16706, 2903}";
+		};
+	};
+	E7E5B0AF118B6AA50012C39D /* CPTestApp-iPhone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "CPTestApp-iPhone";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E7E5B0B4118B6AC40012C39D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E7E5B0B5118B6AC40012C39D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E7E5B1EC118F0BC50012C39D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC74A33810FC40C600E7E90D /* CPTestAppPieChartController.h */;
+		name = "CPTestAppPieChartController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 283;
+		vrLoc = 0;
+	};
+	E7E5B1ED118F0BC50012C39D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC74A33910FC40C600E7E90D /* CPTestAppPieChartController.m */;
+		name = "CPTestAppPieChartController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1346;
+		vrLoc = 0;
+	};
+}

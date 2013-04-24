@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KWTestCase.m \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KWTestCase.h \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KiwiConfiguration.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase_Macros.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingUtilities.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/NSException_SenTestFailure.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuite.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestObserver.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestLog.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDistributedNotifier.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestRun.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuiteRun.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KWExpectationType.h \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KWReporting.h \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KWDeviceInfo.h \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KWExistVerifier.h \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KWVerifying.h \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KWFailure.h \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KWIntercept.h \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KWMatcherFactory.h \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KWMatching.h \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KWMatchVerifier.h \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KWAsyncVerifier.h \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KWProbe.h \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KWObjCUtilities.h \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/KWStringUtilities.h \
+  /Users/lsuarez/CareThings/WearHealth/WOS/mobile/iOS/Kiwi-master/Classes/NSMethodSignature+KiwiAdditions.h
