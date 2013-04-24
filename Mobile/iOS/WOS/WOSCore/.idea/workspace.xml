@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WOSCoreTests/en.lproj/InfoPlist.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WOSCoreTests/WOSCoreTests-Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WOSCoreTests/WOSCoreTests-Prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WOSCoreTests/WOSCoreTests.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WOSCoreTests/WOSCoreTests.m" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../../../.gitmodules" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/AnonymousPhoto.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/AnonymousPhoto.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/AnonymousPhoto.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/AnonymousPhoto.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/AudioTalkToUsViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/AudioTalkToUsViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/AudioTalkToUsViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/AudioTalkToUsViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/BarcodeScannerViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/BarcodeScannerViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/BasicAudioBackgroundView.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/BasicAudioBackgroundView.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/BasicAudioBackgroundView.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/BasicAudioBackgroundView.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/BasicTableBackgroundView.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/BasicTableBackgroundView.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/BasicTableBackgroundView.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/BasicTableBackgroundView.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/BlueCloudsBackground.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/BlueCloudsBackground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPAnimation.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPAnimation.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPAnimationKeyFrame.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPAnimationKeyFrame.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPAnimationTransition.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPAnimationTransition.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPAxis.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPAxis.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPAxisLabel.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPAxisLabel.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPAxisLabelGroup.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPAxisLabelGroup.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPAxisSet.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPAxisSet.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPAxisTitle.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPAxisTitle.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPBarPlot.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPBarPlot.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPBorderedLayer.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPBorderedLayer.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPColor.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPColor.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPColorSpace.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPColorSpace.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPConstrainedPosition.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPConstrainedPosition.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPDarkGradientTheme.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPDarkGradientTheme.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPDefinitions.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPDefinitions.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPExceptions.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPExceptions.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPFill.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPFill.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPGradient.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPGradient.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPGraph.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPGraph.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPGridLines.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPGridLines.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPImage.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPImage.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPLayer.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPLayer.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPLayerHostingView.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPLayerHostingView.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPLayoutManager.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPLayoutManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPLineStyle.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPLineStyle.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPathExtensions.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPathExtensions.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPieChart.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPieChart.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlainBlackTheme.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlainBlackTheme.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlainWhiteTheme.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlainWhiteTheme.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlatformSpecificCategories.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlatformSpecificCategories.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlatformSpecificDefines.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlatformSpecificDefines.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlatformSpecificFunctions.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlatformSpecificFunctions.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlot.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlot.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlotArea.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlotArea.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlotAreaFrame.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlotAreaFrame.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlotGroup.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlotGroup.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlotRange.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlotRange.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlotSpace.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlotSpace.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlotSymbol.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPlotSymbol.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPolarPlotSpace.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPPolarPlotSpace.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPScatterPlot.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPScatterPlot.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPSlateTheme.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPSlateTheme.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPStocksTheme.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPStocksTheme.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPTextLayer.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPTextLayer.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPTextStyle.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPTextStyle.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPTextStylePlatformSpecific.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPTextStylePlatformSpecific.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPTheme.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPTheme.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPTimeFormatter.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPTimeFormatter.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPTradingRangePlot.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPTradingRangePlot.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPUtilities.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPUtilities.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPXYAxis.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPXYAxis.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPXYAxisSet.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPXYAxisSet.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPXYGraph.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPXYGraph.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPXYGridLines.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPXYGridLines.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPXYPlotSpace.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPXYPlotSpace.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPXYTheme.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CPXYTheme.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/ClipBoardDesktop.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/ClipBoardDesktop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/ClipBoardDesktop.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/ClipBoardDesktop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/CoachFemale01Thumb.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/CoachFemale01Thumb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/CoachFemale01Thumb.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/CoachFemale01Thumb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/CoachFemale02Thumb.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/CoachFemale02Thumb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/CoachFemale02Thumb.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/CoachFemale02Thumb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/CoachFemale03Thumb.jpg.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/CoachFemale03Thumb.jpg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/CoachFemale03Thumb.jpg.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/CoachFemale03Thumb.jpg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/CoachFemale04Thumb.jpg.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/CoachFemale04Thumb.jpg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/CoachFemale04Thumb.jpg.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/CoachFemale04Thumb.jpg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/CoachFemale05Thumb.jpg.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/CoachFemale05Thumb.jpg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/CoachFemale05Thumb.jpg.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/CoachFemale05Thumb.jpg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/CoachMale01Thumb.jpg.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/CoachMale01Thumb.jpg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/CoachMale01Thumb.jpg.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/CoachMale01Thumb.jpg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/CoachThumb.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/CoachThumb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/CoachThumb.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/CoachThumb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/Coaches.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/Coaches.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/Coaches.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/Coaches.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/CorePlot-CocoaTouch-all-target-headers.hmap" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/CorePlot-CocoaTouch-all-target-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/CorePlot-CocoaTouch-generated-files.hmap" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/CorePlot-CocoaTouch-generated-files.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/CorePlot-CocoaTouch-own-target-headers.hmap" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/CorePlot-CocoaTouch-own-target-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/CorePlot-CocoaTouch-project-headers.hmap" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/CorePlot-CocoaTouch-project-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/CorePlot-CocoaTouch.hmap" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/CorePlot-CocoaTouch.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/DarkBackgroundLLS.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/DarkBackgroundLLS.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/DarkBackgroundLLS.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/DarkBackgroundLLS.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/DesktopCustomCell.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/DesktopCustomCell.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/DesktopCustomCell.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/DesktopCustomCell.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/Diary32.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/Diary32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/Diary32.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/Diary32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/GeozoneDetailView.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/GeozoneDetailView.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/GeozoneDetailView.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/GeozoneDetailView.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/GeozoneMapViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/GeozoneMapViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/GeozoneMapViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/GeozoneMapViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/GoalCustomCell.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/GoalCustomCell.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/GoalCustomCell.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/GoalCustomCell.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/GoalDetailViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/GoalDetailViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/GoalDetailViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/GoalDetailViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/GoalMainViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/GoalMainViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/GoalMainViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/GoalMainViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/KVPasscodeViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/KVPasscodeViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/KVPasscodeViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/KVPasscodeViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/LabelTextViewCustomCell.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/LabelTextViewCustomCell.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/LabelTextViewCustomCell.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/LabelTextViewCustomCell.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/LightBackgroundLLS.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/LightBackgroundLLS.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/LightBackgroundLLS.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/LightBackgroundLLS.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/LoginBox.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/LoginBox.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../../../Archive/iPhoneProjects/MapKitDragAndDrop" afterPath="$PROJECT_DIR$/../../../../../../Archive/iPhoneProjects/MapKitDragAndDrop" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/MediaAssetsViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/MediaAssetsViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/MediaAssetsViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/MediaAssetsViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/MediaUploadViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/MediaUploadViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/MediaUploadViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/MediaUploadViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/MediaViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/MediaViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/MediaViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/MediaViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/NSDecimalNumberExtensions.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/NSDecimalNumberExtensions.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/NSNumberExtensions.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/NSNumberExtensions.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/TalkToUs/NewsBanner.png" afterPath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/TalkToUs/NewsBanner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/NewsBanner.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/NewsBanner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/NewsBanner.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/NewsBanner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/NewsFeedCell.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/NewsFeedCell.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/NewsFeedCell.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/NewsFeedCell.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/NewsFeedViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/NewsFeedViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/NewsFeedViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/NewsFeedViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../OpenEars/OpenEarsLibrary/OpenEars.build/OpenEarsLibrary-all-target-headers.hmap" afterPath="$PROJECT_DIR$/../../OpenEars/OpenEarsLibrary/OpenEars.build/OpenEarsLibrary-all-target-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../OpenEars/OpenEarsLibrary/OpenEars.build/OpenEarsLibrary-own-target-headers.hmap" afterPath="$PROJECT_DIR$/../../OpenEars/OpenEarsLibrary/OpenEars.build/OpenEarsLibrary-own-target-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../OpenEars/OpenEarsLibrary/OpenEars.build/OpenEarsLibrary-project-headers.hmap" afterPath="$PROJECT_DIR$/../../OpenEars/OpenEarsLibrary/OpenEars.build/OpenEarsLibrary-project-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../OpenEars/OpenEarsLibrary/OpenEars.build/OpenEarsLibrary.hmap" afterPath="$PROJECT_DIR$/../../OpenEars/OpenEarsLibrary/OpenEars.build/OpenEarsLibrary.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../../../Archive/iPhoneProjects/OpenFlow" afterPath="$PROJECT_DIR$/../../../../../../Archive/iPhoneProjects/OpenFlow" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/REDCapSurveyBar.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/REDCapSurveyBar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/RETopTabBanner.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/RETopTabBanner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/RETopTabBanner.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/RETopTabBanner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/RETopTabBannerHome.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/RETopTabBannerHome.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/RETopTabBannerHome.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/RETopTabBannerHome.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/RETopTabBannerHomeNext.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/RETopTabBannerHomeNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/RETopTabBannerHomeNext.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/RETopTabBannerHomeNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/RETopTabBannerNext.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/RETopTabBannerNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/RETopTabBannerNext.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/RETopTabBannerNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/RETopTabBannerNone.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/RETopTabBannerNone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/RETopTabBannerNone.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/RETopTabBannerNone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/RewardBackground.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/RewardBackground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/RewardBackground.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/RewardBackground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/RewardViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/RewardViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/RewardViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/RewardViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/RowNumBadge.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/RowNumBadge.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/RowNumBadge.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/RowNumBadge.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/SettingsBanner.png" afterPath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/SettingsBanner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsBanner.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsBanner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsBanner.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsBanner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsCoachViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsCoachViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsCoachViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsCoachViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsParticipantIDViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsParticipantIDViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsParticipantIDViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsParticipantIDViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsPasscodeViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsPasscodeViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsPasscodeViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsPasscodeViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsResearcherLanguageViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsResearcherLanguageViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsResearcherLanguageViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsResearcherLanguageViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsResearcherViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsResearcherViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsResearcherViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsResearcherViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsStudySiteViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsStudySiteViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsStudySiteViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsStudySiteViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsSurveyLanguageViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsSurveyLanguageViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsSurveyLanguageViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsSurveyLanguageViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsUserNameViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsUserNameViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsUserNameViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsUserNameViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SettingsViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SettingsViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SimpleCustomCell.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SimpleCustomCell.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SimpleCustomCell.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SimpleCustomCell.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SimpleCustomCell2.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SimpleCustomCell2.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SimpleCustomCell2.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SimpleCustomCell2.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SimpleCustomCell2Group.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SimpleCustomCell2Group.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SimpleCustomCell2Group.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SimpleCustomCell2Group.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SimpleCustomCell3.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/SimpleCustomCell3.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SimpleCustomCell3.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/SimpleCustomCell3.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo31.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo31.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo32.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo33.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo33.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo34.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo34.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo35.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo35.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo36.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo36.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo37.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo37.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo38.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo38.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo39.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo39.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo40.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/SliderThumbNo40.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/StartStudy.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/StartStudy.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/StartStudy.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/StartStudy.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/StartUpload.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/StartUpload.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/StartUpload.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/StartUpload.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/StopStudy.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/StopStudy.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/StopStudy.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/StopStudy.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/SurveyBanner.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/SurveyBanner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/SurveySetupData.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/SurveySetupData.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/SurveySetupParser.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/SurveySetupParser.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/SurveySetupParserData.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/SurveySetupParserData.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TalkToUsDashboard.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TalkToUsDashboard.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TalkToUsDashboard.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TalkToUsDashboard.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TextBox.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TextBox.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TextBox.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TextBox.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/TalkToUs/TextMsgBanner.png" afterPath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/TalkToUs/TextMsgBanner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TextMsgBanner.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TextMsgBanner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TextMsgBanner.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TextMsgBanner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TextMsgViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TextMsgViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TextMsgViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TextMsgViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/ThankYou.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/ThankYou.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/ThankYou.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/ThankYou.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TimerStartTimeViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TimerStartTimeViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TimerStartTimeViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TimerStartTimeViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopBannerPrevNext.png" afterPath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopBannerPrevNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopBannerPrevNext.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopBannerPrevNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopBannerPrevNext.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopBannerPrevNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopBannerSplitView.png" afterPath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopBannerSplitView.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopTabBanner.png" afterPath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopTabBanner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopTabBanner.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopTabBanner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopTabBanner.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopTabBanner.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopTabBannerBack.png" afterPath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopTabBannerBack.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopTabBannerBack.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopTabBannerBack.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopTabBannerBack.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopTabBannerBack.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopTabBannerHome.png" afterPath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopTabBannerHome.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopTabBannerHome.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopTabBannerHome.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopTabBannerHome.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopTabBannerHome.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopTabBannerHomeAdd.png" afterPath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopTabBannerHomeAdd.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopTabBannerHomeAdd.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopTabBannerHomeAdd.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopTabBannerHomeAdd.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopTabBannerHomeAdd.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopTabBannerHomeNew.png" afterPath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopTabBannerHomeNew.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopTabBannerHomeNew.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopTabBannerHomeNew.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopTabBannerHomeNew.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopTabBannerHomeNew.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopTabBannerHomeNext.png" afterPath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopTabBannerHomeNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopTabBannerHomeNext.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopTabBannerHomeNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopTabBannerHomeNext.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopTabBannerHomeNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopTabBannerNext.png" afterPath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopTabBannerNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopTabBannerNext.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopTabBannerNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopTabBannerNext.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopTabBannerNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopTabBannerNone.png" afterPath="$PROJECT_DIR$/../WOSRender/src/Headers/Common Controllers/Resources/Common/TopTabBannerNone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopTabBannerNone.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/TopTabBannerNone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopTabBannerNone.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/TopTabBannerNone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../../../Archive/UCSFTelemedicine/UCSFUniv" afterPath="$PROJECT_DIR$/../../../../../../Archive/UCSFTelemedicine/UCSFUniv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/UploadBtn.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/UploadBtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/UploadBtn.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/UploadBtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/UploadCSVBtn.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/UploadCSVBtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/UploadCSVBtn.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/UploadCSVBtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SqlCipher/sqlcipher.xcodeproj/project.xcworkspace/xcuserdata/lsuarez.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/../../SqlCipher/sqlcipher.xcodeproj/project.xcworkspace/xcuserdata/lsuarez.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WOSCore.xcodeproj/project.xcworkspace/xcuserdata/lsuarez.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/WOSCore.xcodeproj/project.xcworkspace/xcuserdata/lsuarez.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/VirtualCoachViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/VirtualCoachViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/VirtualCoachViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/VirtualCoachViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WOSCore.build/WOSCore-all-target-headers.hmap" afterPath="$PROJECT_DIR$/WOSCore.build/WOSCore-all-target-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WOSCore.build/WOSCore-own-target-headers.hmap" afterPath="$PROJECT_DIR$/WOSCore.build/WOSCore-own-target-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WOSCore.build/WOSCore-project-headers.hmap" afterPath="$PROJECT_DIR$/WOSCore.build/WOSCore-project-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WOSCore.build/WOSCore.hmap" afterPath="$PROJECT_DIR$/WOSCore.build/WOSCore.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSCore.framework/Versions/A/WOSCore" afterPath="$PROJECT_DIR$/../../lib/WOSCore.framework/Versions/A/WOSCore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSEngine.framework/Versions/A/WOSEngine" afterPath="$PROJECT_DIR$/../../lib/WOSEngine.framework/Versions/A/WOSEngine" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.framework/Versions/A/WOSRender" afterPath="$PROJECT_DIR$/../../lib/WOSRender.framework/Versions/A/WOSRender" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/_CPFillColor.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/_CPFillColor.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/_CPFillGradient.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/_CPFillGradient.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/_CPFillImage.o" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/_CPFillImage.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/alarmSetting.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/alarmSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/alarmSetting.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/alarmSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/audio32.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/audio32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/audio32.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/audio32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/background.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/background.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/barcode.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/barcode.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/carePathwayViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/carePathwayViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/carePathwayViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/carePathwayViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/careProviderSetting.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/careProviderSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/careProviderSetting.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/careProviderSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/checkMark.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/checkMark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/checkMark.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/checkMark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/checkboxChecked.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/checkboxChecked.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/checkboxChecked.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/checkboxChecked.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/checkboxUnchecked.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/checkboxUnchecked.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/checkboxUnchecked.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/checkboxUnchecked.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/coachSetting.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/coachSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/coachSetting.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/coachSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/conversation.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/conversation.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/conversation.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/conversation.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/desktopSetting.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/desktopSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/desktopSetting.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/desktopSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/homeBtn.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/homeBtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/homeBtn.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/homeBtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/homeSelectedBtn.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/homeSelectedBtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/homeSelectedBtn.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/homeSelectedBtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../../../Archive/iPhoneProjects/iWVU" afterPath="$PROJECT_DIR$/../../../../../../Archive/iPhoneProjects/iWVU" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/languageSetting.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/languageSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/languageSetting.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/languageSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/libCorePlot-CocoaTouch.a" afterPath="$PROJECT_DIR$/../../lib/libCorePlot-CocoaTouch.a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/libZXingWidget.a" afterPath="$PROJECT_DIR$/../../lib/libZXingWidget.a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/libsbjson-ios.a" afterPath="$PROJECT_DIR$/../../lib/libsbjson-ios.a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/nextBtn.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/nextBtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/nextBtn.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/nextBtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/nextSelectedBtn.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/nextSelectedBtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/nextSelectedBtn.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/nextSelectedBtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/paintCellBackground.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/paintCellBackground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/paintCellBackground.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/paintCellBackground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/paintCellBackgroundSelected.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/paintCellBackgroundSelected.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/paintCellBackgroundSelected.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/paintCellBackgroundSelected.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/paintCellYellowBackground.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/paintCellYellowBackground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/paintCellYellowBackground.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/paintCellYellowBackground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/passBackground.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/passBackground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/passBackground.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/passBackground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/passwordSetting.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/passwordSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/passwordSetting.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/passwordSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/patientIdSetting.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/patientIdSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/patientIdSetting.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/patientIdSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/photo32.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/photo32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/photo32.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/photo32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/previousBtn.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/previousBtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/previousBtn.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/previousBtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/previousSelectedBtn.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/previousSelectedBtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/previousSelectedBtn.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/previousSelectedBtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/scan.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/scan.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/settingsBackground.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/settingsBackground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/settingsBackground.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/settingsBackground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/siteSetting.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/siteSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/siteSetting.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/siteSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/tabBarImage.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/tabBarImage.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/tabBarImage.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/tabBarImage.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/talkToUsViewController.nib" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/talkToUsViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/talkToUsViewController.nib" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/talkToUsViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/text32.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/text32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/text32.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/text32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../../../Archive/UCSFTelemedicine/three20" afterPath="$PROJECT_DIR$/../../../../../../Archive/UCSFTelemedicine/three20" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../../../Archive/iPhoneProjects/three20" afterPath="$PROJECT_DIR$/../../../../../../Archive/iPhoneProjects/three20" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/userNameSetting.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/userNameSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/userNameSetting.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/userNameSetting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/video32.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/video32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/video32.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/video32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/yellowBackground.png" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/yellowBackground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/yellowBackground.png" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/yellowBackground.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/AssetTypeTranslation.plist" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/AssetTypeTranslation.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/AssetTypeTranslation.plist" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/AssetTypeTranslation.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/AssetTypes.plist" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/AssetTypes.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/AssetTypes.plist" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/AssetTypes.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CorePlot-CocoaTouch.LinkFileList" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/Objects-normal/i386/CorePlot-CocoaTouch.LinkFileList" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/DerivedSources/CorePlotProbes.h" afterPath="$PROJECT_DIR$/../../core-plot/framework/CorePlot-CocoaTouch.build/Debug-iphonesimulator/CorePlot-CocoaTouch.build/DerivedSources/CorePlotProbes.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/DataExportViewController.h" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/DataExportViewController.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/DataExportViewController.m" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/DataExportViewController.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/Classes/DataExportViewController.xib" afterPath="$PROJECT_DIR$/../WOSiPadClient/Classes/DataExportViewController.xib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/GeozoneAlertDistance.plist" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/GeozoneAlertDistance.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/GeozoneAlertDistance.plist" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/GeozoneAlertDistance.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/Info.plist" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/Info.plist" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../OpenEars/OpenEarsLibrary/OpenEars.build/OpenEarsLibrary-generated-files.hmap" afterPath="$PROJECT_DIR$/../../OpenEars/OpenEarsLibrary/OpenEars.build/OpenEarsLibrary-generated-files.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/QATest.xml" afterPath="$PROJECT_DIR$/../WOSiPadClient/QATest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/REPs.plist" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSRender.bundle/REPs.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.bundle/REPs.plist" afterPath="$PROJECT_DIR$/../../lib/WOSRender.bundle/REPs.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/SampleExportFromREDCap.xml" afterPath="$PROJECT_DIR$/../WOSiPadClient/SampleExportFromREDCap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Headers/com/carethings/data/dal/dto/Site.h" afterPath="$PROJECT_DIR$/src/Headers/com/carethings/data/dal/dto/Site.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSCore.framework/Versions/A/Headers/Site.h" afterPath="$PROJECT_DIR$/../../lib/WOSCore.framework/Versions/A/Headers/Site.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Headers/com/carethings/data/dal/dto/Site.m" afterPath="$PROJECT_DIR$/src/Headers/com/carethings/data/dal/dto/Site.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Headers/com/carethings/data/dal/dao/SiteDAO.h" afterPath="$PROJECT_DIR$/src/Headers/com/carethings/data/dal/dao/SiteDAO.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSCore.framework/Versions/A/Headers/SiteDAO.h" afterPath="$PROJECT_DIR$/../../lib/WOSCore.framework/Versions/A/Headers/SiteDAO.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Headers/com/carethings/data/dal/dao/SiteDAO.m" afterPath="$PROJECT_DIR$/src/Headers/com/carethings/data/dal/dao/SiteDAO.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSRender/src/Headers/Utils/UIDevice+Resolutions.h" afterPath="$PROJECT_DIR$/../WOSRender/src/Headers/Utils/UIDevice+Resolutions.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../lib/WOSRender.framework/Versions/A/Headers/UIDevice+Resolutions.h" afterPath="$PROJECT_DIR$/../../lib/WOSRender.framework/Versions/A/Headers/UIDevice+Resolutions.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSRender/src/Framework/Utils/UIDevice+Resolutions.m" afterPath="$PROJECT_DIR$/../WOSRender/src/Framework/Utils/UIDevice+Resolutions.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WOSCore.build/WOSCore-generated-files.hmap" afterPath="$PROJECT_DIR$/WOSCore.build/WOSCore-generated-files.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/WOSiPadClient.xcodeproj/xcuserdata/lsuarez.xcuserdatad/xcschemes/WOSiPadClient.xcscheme" afterPath="$PROJECT_DIR$/../WOSiPadClient/WOSiPadClient.xcodeproj/xcuserdata/lsuarez.xcuserdatad/xcschemes/WOSiPadClient.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ZXingWidget/ZXingWidget.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="$PROJECT_DIR$/../../ZXingWidget/ZXingWidget.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WOSCore.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/WOSCore.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WOSCore.xcodeproj/xcuserdata/lsuarez.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/WOSCore.xcodeproj/xcuserdata/lsuarez.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/xml1.xml" afterPath="$PROJECT_DIR$/../WOSiPadClient/xml1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/xml2.xml" afterPath="$PROJECT_DIR$/../WOSiPadClient/xml2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WOSiPadClient/xml3.xml" afterPath="$PROJECT_DIR$/../WOSiPadClient/xml3.xml" />
+    </list>
+    <ignored path="carePATHFramework.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1366427861385" ignored="false" />
+    <file path="/a.dummy" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1357514300902" ignored="false" />
+    <file path="/WSClinicalEngine.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1357090944313" ignored="false" />
+    <file path="/Goal.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355897750002" ignored="false" />
+    <file path="/Task.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355385282386" ignored="false" />
+    <file path="/Task.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355385347099" ignored="false" />
+    <file path="/Goal.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355897776441" ignored="false" />
+    <file path="/WSPHRManager.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356381703273" ignored="false" />
+    <file path="/GoalDAO.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355897989122" ignored="false" />
+    <file path="/TaskDAO.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355385877164" ignored="false" />
+    <file path="/Patient.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355469494345" ignored="false" />
+    <file path="/Patient.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355469646197" ignored="false" />
+    <file path="/PatientDAO.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1357012037481" ignored="false" />
+    <file path="/UIImage+UIImageFunctions.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355514357688" ignored="false" />
+    <file path="/WSDataDistributionManager.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356221516877" ignored="false" />
+    <file path="/WSDataDistributionManager.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356221056362" ignored="false" />
+    <file path="/WSSalesforceChannel.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355954471032" ignored="false" />
+    <file path="/WSDataChannel.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355700467075" ignored="false" />
+    <file path="$USER_HOME$/ucsf-mhealth/projects/mobile/iOS/CDPH/CDPH-Info.plist" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355654262305" ignored="false" />
+    <file path="$PROJECT_DIR$/../OpenPATHRender/src/Headers/Common Controllers/Resources/TalkToUs/TalkToUs.xml" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355654262305" ignored="false" />
+    <file path="$PROJECT_DIR$/../OpenPATHRender/src/Headers/Common Controllers/TalkToUs/NewsFeedViewController.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355654262306" ignored="false" />
+    <file path="$PROJECT_DIR$/../OpenPATHRender/src/Headers/Common Controllers/Resources/TalkToUs/NewsFeedViewController.xib" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355654262306" ignored="false" />
+    <file path="/Security.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356381202117" ignored="false" />
+    <file path="/SecurityDAO.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356381518443" ignored="false" />
+    <file path="/Social.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355695669281" ignored="false" />
+    <file path="/Social.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355695859032" ignored="false" />
+    <file path="/TimerDAO.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355813668629" ignored="false" />
+    <file path="/WSGeneralProtocolHistoryManager.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355895196582" ignored="false" />
+    <file path="/SetGoalComplete.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355947084238" ignored="false" />
+    <file path="/WSStackContext.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355955556872" ignored="false" />
+    <file path="/WSStackContext.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1357010801902" ignored="false" />
+    <file path="/SetActiveGoal.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1355959392569" ignored="false" />
+    <file path="/JSONSerialization.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356210862579" ignored="false" />
+    <file path="/JSONSerialization.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356037287492" ignored="false" />
+    <file path="/ActivityDAO.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356237995674" ignored="false" />
+    <file path="/ActivityDAO.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356075504516" ignored="false" />
+    <file path="/CSVSerialization.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356121223165" ignored="false" />
+    <file path="/CSVSerialization.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356121549206" ignored="false" />
+    <file path="/WSActivity.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356122199509" ignored="false" />
+    <file path="/WSPersistanceModel.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356220330626" ignored="false" />
+    <file path="/WSDBPersistanceModel.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356220362429" ignored="false" />
+    <file path="/CDPHPersistanceModel.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356220378332" ignored="false" />
+    <file path="/WSUtteranceEngine.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356220466586" ignored="false" />
+    <file path="/WSClinicalEngine.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356221032781" ignored="false" />
+    <file path="/WSUtteranceEngineFactory.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356220707188" ignored="false" />
+    <file path="/WSUtteranceEngineFactory.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356221165899" ignored="false" />
+    <file path="/WSDBPersistenceModel.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356221468892" ignored="false" />
+    <file path="/project.pbxproj" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356221670074" ignored="false" />
+    <file path="/WSRedCapRenderingModel.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356233096320" ignored="false" />
+    <file path="/AssetDAO.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356233715400" ignored="false" />
+    <file path="/RenderStyle.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356234064834" ignored="false" />
+    <file path="/Security.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356381277051" ignored="false" />
+    <file path="/WSREDCapChannel.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1358358393535" ignored="false" />
+    <file path="/WSRedCapCarePlanModel.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1357543695852" ignored="false" />
+    <file path="/_DDFunctionUtilities.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356596390973" ignored="false" />
+    <file path="/_DDFunctionUtilities.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356596750299" ignored="false" />
+    <file path="/OpenPATHCoreDaoTests.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1356764267475" ignored="false" />
+    <file path="/ObjectDAO.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1357012982188" ignored="false" />
+    <file path="/WSBehavior.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1357081376927" ignored="false" />
+    <file path="/WSInteractionHIL.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1357372424415" ignored="false" />
+    <file path="/WSInteractionHIL.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1357372478936" ignored="false" />
+    <file path="/WSUCSFCarePlanModel.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1357373062052" ignored="false" />
+    <file path="/WSIntervention.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1357530871655" ignored="false" />
+    <file path="/OpenPATHCore.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1358234618613" ignored="false" />
+    <file path="/CoreChannels.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1358184194820" ignored="false" />
+    <file path="/CoreComm.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1358184473215" ignored="false" />
+    <file path="/CoreData.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1358185912506" ignored="false" />
+    <file path="/CorePnapi.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1358186345725" ignored="false" />
+    <file path="/CoreSbjson.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1358186393890" ignored="false" />
+    <file path="/SBJson.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1358186617571" ignored="false" />
+    <file path="/*.regexp" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1358188205016" ignored="false" />
+    <file path="/CoreSftp.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1358187875243" ignored="false" />
+    <file path="/CoreUtils.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1358188600403" ignored="false" />
+    <file path="/CoreXml.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1358188687465" ignored="false" />
+    <file path="/OpenPATHContext.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1358234865499" ignored="false" />
+    <file path="/OpenPATHContext.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1358235273726" ignored="false" />
+    <file path="/WOSCoreTests.m" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1366418580849" ignored="false" />
+    <file path="/WOSCoreTests.h" changelist="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" time="1366418618360" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_UNIVERSAL" />
+  <component name="FavoritesManager">
+    <favorites_list name="carePATHFramework" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="WOSCoreTests.h" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/WOSCoreTests/WOSCoreTests.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="40" selection-start="108" selection-end="108" vertical-scroll-proportion="0.08695652">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WOSCoreTests.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/WOSCoreTests/WOSCoreTests.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="16" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Tony Stone" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/Headers/com/carethings/channels/WSSmsDataChannel.h" />
+        <option value="$PROJECT_DIR$/src/Headers/com/carethings/comm/CoreComm.h" />
+        <option value="$PROJECT_DIR$/src/Headers/com/carethings/data/CoreData.h" />
+        <option value="$PROJECT_DIR$/src/Headers/com/carethings/pnapi/CorePnapi.h" />
+        <option value="$PROJECT_DIR$/src/Headers/com/carethings/sbjson/CoreSbjson.h" />
+        <option value="$PROJECT_DIR$/src/Headers/com/carethings/sbjson/SBJson.h" />
+        <option value="$PROJECT_DIR$/src/Headers/com/carethings/sftp/CoreSftp.h" />
+        <option value="$PROJECT_DIR$/src/Headers/com/carethings/utils/CoreUtils.h" />
+        <option value="$PROJECT_DIR$/src/Headers/com/carethings/xml/CoreXml.h" />
+        <option value="$PROJECT_DIR$/src/Headers/com/carethings/OpenPATHCore.h" />
+        <option value="$PROJECT_DIR$/src/Framework/com/carethings/OpenPATHContext.m" />
+        <option value="$PROJECT_DIR$/src/Headers/com/carethings/channels/WSREDCapChannel.h" />
+        <option value="$PROJECT_DIR$/src/Framework/com/carethings/channels/WSREDCapChannel.m" />
+        <option value="$PROJECT_DIR$/src/Headers/com/carethings/OpenPATHContext.h" />
+        <option value="$PROJECT_DIR$/src/WOSCoreTests/WOSCoreTests.m" />
+        <option value="$PROJECT_DIR$/src/WOSCoreTests/WOSCoreTests.h" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Classes</id>
+          </State>
+          <State>
+            <id>Methods</id>
+          </State>
+          <State>
+            <id>Properties</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Type checks</id>
+          </State>
+          <State>
+            <id>Unused code</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>UnusedLocalVariable</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="DirectoryView.Xcode">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OpenPATHEngine" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeDirectoryView$1$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OpenPATHEngine" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeDirectoryView$1$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OpenPATHEngine_ARC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OpenPATHEngine" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeDirectoryView$1$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OpenPATHEngine_ARC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Core_Framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OpenPATHEngine" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeDirectoryView$1$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OpenPATHEngine_ARC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Core_Framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WOSCore" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WOSCore" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frameworks" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WOSCore" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classes" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WOSCoreTests" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WOSCore" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classes" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/WOSCoreTests" />
+    <property name="FullScreen" value="false" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="WOSCore" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.OpenPATHCore">
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="OCUnit" PROJECT_NAME="carePATHFramework" TARGET_NAME="carePATHFramework UnitTests" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PROJECT_NAME="carePATHFramework" TARGET_NAME="carePATHFramework" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="mHealthOpenFramework" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="mHealthOpenFramework" PROJECT_NAME="WOSCore" TARGET_NAME="WOSCore" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="mHealthOpenFramework UnitTests" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="mHealthOpenFramework UnitTests" PROJECT_NAME="WOSCore" TARGET_NAME="OpenPATHCore UnitTests" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="OpenPATHCore" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="OpenPATHCore" PROJECT_NAME="WOSCore" TARGET_NAME="WOSCore" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="OpenPATHCoreResources" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="OpenPATHCoreResources" PROJECT_NAME="WOSCore" TARGET_NAME="OpenPATHCoreResources" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Framework" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="Framework" PROJECT_NAME="WOSCore" TARGET_NAME="Framework" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="WOSCoreTests" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="WOSCoreTests" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Application.mHealthOpenFramework" />
+      <item index="1" class="java.lang.String" itemvalue="Application.mHealthOpenFramework UnitTests" />
+      <item index="2" class="java.lang.String" itemvalue="Application.OpenPATHCore" />
+      <item index="3" class="java.lang.String" itemvalue="Application.OpenPATHCoreResources" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Framework" />
+      <item index="5" class="java.lang.String" itemvalue="Application.WOSCoreTests" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion_IDEA</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1716f8a-73dc-45b9-b82d-e44f3ce68e9a" name="Default" comment="" />
+      <created>1338188210121</created>
+      <updated>1338188210121</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added reward attributes to Patient object">
+      <created>1348914639578</created>
+      <updated>1348914639578</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="810" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286908" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23853211" sideWeight="0.6713092" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26904055" sideWeight="0.055729166" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988358" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46389714" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34915924" sideWeight="0.940625" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39960435" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added reward attributes to Patient object" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Added reward attributes to Patient object" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="842" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Headers/com/carethings/xml/CoreXml.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="26" selection-start="1748" selection-end="1748" vertical-scroll-proportion="0.38148525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Headers/com/carethings/OpenPATHCore.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="1978" selection-end="1978" vertical-scroll-proportion="0.4730417" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/com/carethings/utils/DateFormatter.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="58" selection-start="1999" selection-end="2043" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/com/carethings/channels/WSChatterDataChannel.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Headers/com/carethings/channels/WSREDCapChannel.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="87" selection-start="2846" selection-end="2846" vertical-scroll-proportion="0.7782299" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/com/carethings/OpenPATHContext.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="31" selection-start="1960" selection-end="1960" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/com/carethings/data/dal/dao/ObjectDAO.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.4016395" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/com/carethings/data/dal/dao/GoalDAO.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Headers/com/carethings/data/dal/dto/ProtocolHistory.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Headers/com/carethings/data/dal/dto/Features.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Headers/com/carethings/OpenPATHContext.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="59" selection-start="2535" selection-end="2535" vertical-scroll-proportion="0.01565762" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/com/carethings/data/dal/dao/ActivityDAO.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="278" column="52" selection-start="21254" selection-end="21254" vertical-scroll-proportion="0.44656086" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/com/carethings/channels/WSREDCapChannel.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="223" column="97" selection-start="41165" selection-end="41165" vertical-scroll-proportion="0.50564975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/com/carethings/channels/WSFTPDataChannel.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="90" selection-start="2363" selection-end="2363" vertical-scroll-proportion="0.022156574">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WOSCoreTests/WOSCoreTests.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="16" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WOSCoreTests/WOSCoreTests.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="40" selection-start="108" selection-end="108" vertical-scroll-proportion="0.08695652">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,13 @@
+//
+// Prefix header for all source files of the 'OpenPATHRender' target in the 'OpenPATHRender' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import <CoreLocation/CoreLocation.h>
+
+    #import <OpenPATHCore/OpenPATHCore.h>
+    #import <OpenPATHEngine/OpenPATHEngine.h>
+
+#endif

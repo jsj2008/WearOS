@@ -1,0 +1,11 @@
+//
+// Prefix header for all source files of the 'OpenPATHRenderResources' target in the 'OpenPATHRenderResources' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+
+	#import <OpenPATHCore/OpenPATHCore.h>
+    #import <OpenPATHEngine/OpenPATHEngine.h>
+    #import "OpenPATHRender.h"
+#endif

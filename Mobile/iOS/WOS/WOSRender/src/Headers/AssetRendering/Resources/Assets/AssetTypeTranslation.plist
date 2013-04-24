@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StringToNumber</key>
+	<dict>
+		<key>Unknown</key>
+		<integer>0</integer>
+		<key>Photo</key>
+		<integer>1</integer>
+		<key>Video</key>
+		<integer>2</integer>
+		<key>Audio</key>
+		<integer>3</integer>
+		<key>DateTime</key>
+		<integer>4</integer>
+		<key>Text</key>
+		<integer>5</integer>
+	</dict>
+	<key>NumberToString</key>
+	<dict>
+		<key>0</key>
+		<string>Unknown</string>
+		<key>1</key>
+		<string>Photo</string>
+		<key>2</key>
+		<string>Video</string>
+		<key>3</key>
+		<string>Audio</string>
+		<key>4</key>
+		<string>DateTime</string>
+		<key>5</key>
+		<string>Text</string>
+	</dict>
+</dict>
+</plist>

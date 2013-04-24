@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23885c98-c098-490f-bda5-22ca98ff6b1e" name="Default" comment="" />
+    <ignored path="OpenPATHRender.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494079" ignored="false" />
+    <file path="/OpenPATHViewController.m" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1364799455769" ignored="false" />
+    <file path="/a.dummy" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1364799804772" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/talkToUsViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461934" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SimpleCustomCell2Group.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461934" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsParticipantIDViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461934" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/MediaUploadViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461934" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/NSAttributedString+height.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461934" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/DeleteCustomCell.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461934" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/UIDevice+Resolutions.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461934" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsUserNameViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/QuestionTextView.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/RenderUtils.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/AlertDistributionChannel.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/GridViewCell.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsStudySiteViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/RenderAssets.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/WSStyle.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SimpleCustomCell2.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SimpleCustomCell3.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/VirtualCoachViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/MarkupParser.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/GoalMainViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/WSAssetContext.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/WSRenderingEngine.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsTimerRepeatViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/CoordinateCustomCell.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsSurveyLanguageViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461935" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SimpleCustomCell.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461936" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/TextMsgViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461936" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsPasscodeViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461936" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/LabelCustomCell.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461936" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsTimerMessageViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461936" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/AudioTalkToUsViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461936" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/PatientViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461936" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/ALAssetsLibrary+CustomPhotoAlbum.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461936" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsTimerStartTimeViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461936" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/GoalDetailViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461936" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/CTColumnView.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461936" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/NextLevelViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461936" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/LevelSizeEstimate.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461938" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsTimerDetailViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461938" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/GeozoneViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461938" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/LocalVideoViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461938" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/DesktopCustomCell.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461938" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/MediaAssetsDetailViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/AlertDetailViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/LabelWithCountCustomCell.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsPhaseViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/GoalCustomCell.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/MediaAssetsViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/AlertManager.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/AlertUtilities.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/LabelTextViewCustomCell.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/MediaViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SwitchFieldCustomCell.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/MediaSendDataManager.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/GeozoneDetailAlertDistanceViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/CustomViewCell.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsAlarmStartTimeViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/RenderCustomCells.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/LevelQuarterView.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/Theme.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsCoachViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/PatientDetailViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsResearcherLanguageViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/GeozoneDetailViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/MediaAssetsTypeViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/CTView.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/AlertViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/TextFieldCustomCell.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/MoviePlayerUserPrefs.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/RewardViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsResearcherViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/ResponseTextView.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/VideoViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/NSMutableDictionary+ImageMetadata.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/ImageUtilities.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/GeozoneMapViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/PatientGenderViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461940" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/LevelBall.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461941" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsTimerSoundsViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461941" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/KVPasscodeViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461941" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/carePathwayViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461941" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/NewsFeedViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461941" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/RenderCommonControllers.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461941" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/LevelView.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461941" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/TextViewCustomCell.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461941" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/WSInteractionViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461941" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/SettingsTimerViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461941" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/MyOverlayViewController.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461941" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/NewsFeedCell.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461941" ignored="false" />
+    <file path="$PROJECT_DIR$/../../lib/WOSRender.framework/Headers/UIColor+Utilities.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1365732461941" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/xlink.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494080" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/parserInternals.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494080" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/valid.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494080" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/xmlschemas.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494080" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/SAX.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494080" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/xmlregexp.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494080" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/xpathInternals.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494080" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/HTMLparser.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494080" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/xpath.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494080" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/parser.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494080" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/xmlmemory.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494080" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/globals.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494080" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/threads.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494080" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/list.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494081" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/SAX2.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494081" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/tree.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494081" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/dict.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494081" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/xmlIO.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494081" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/xmlerror.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494081" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/xmlstring.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494081" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/encoding.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494081" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/hash.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494081" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/xmlexports.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494081" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/xmlautomata.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494081" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/schemasInternals.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494081" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/entities.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494082" ignored="false" />
+    <file path="/usr/include/libxml2/libxml/xmlversion.h" changelist="23885c98-c098-490f-bda5-22ca98ff6b1e" time="1366397494082" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_UNIVERSAL" />
+  <component name="FavoritesManager">
+    <favorites_list name="WOSRender" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="carePathwayViewController.m" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Framework/Common Controllers/Protocol/carePathwayViewController.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="132" column="31" selection-start="5044" selection-end="5067" vertical-scroll-proportion="0.022222223">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Render_Framework/Framework/AssetRendering/Assets/MediaAssetsTypeViewController.m" />
+        <option value="$PROJECT_DIR$/Render_Framework/Framework/AssetRendering/Assets/ALAssetsLibrary+CustomPhotoAlbum.m" />
+        <option value="$PROJECT_DIR$/Render_Framework/Framework/RenderingManager/WSRenderingEngine.m" />
+        <option value="$PROJECT_DIR$/Render_Framework/Header/RenderingManager/WSRenderingEngine.h" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WOSRender" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WOSRender" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WOSRender" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Framework" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WOSRender" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Framework" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common Controllers" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WOSRender" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Framework" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common Controllers" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Protocol" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="DirectoryView.Xcode" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Render_Framework/Header/RenderingManager" />
+    <property name="FullScreen" value="false" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.OpenPATHRender">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PROJECT_NAME="OpenPATHRender" TARGET_NAME="OpenPATHRender" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="OpenPATHRender" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="OpenPATHRender" PROJECT_NAME="WOSRender" TARGET_NAME="WOSRender" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Framework-ios" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="Framework-ios" PROJECT_NAME="WOSRender" TARGET_NAME="Framework-ios" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Framework" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="Framework" PROJECT_NAME="WOSRender" TARGET_NAME="Framework" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="OpenPATHRenderResources" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="OpenPATHRenderResources" PROJECT_NAME="WOSRender" TARGET_NAME="WOSRenderResources" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.OpenPATHRender" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Framework-ios" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Framework" />
+      <item index="3" class="java.lang.String" itemvalue="Application.OpenPATHRenderResources" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.OpenPATHRender" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23885c98-c098-490f-bda5-22ca98ff6b1e" name="Default" comment="" />
+      <created>1347936690559</created>
+      <updated>1347936690559</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="810" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2159492" sideWeight="0.983185" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="19" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Framework/Common Controllers/Protocol/carePathwayViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="31" selection-start="5044" selection-end="5067" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Common Controllers/Protocol/carePathwayViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="724" column="52" selection-start="27584" selection-end="27584" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Common Controllers/Protocol/carePathwayViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Common Controllers/Settings/SettingsAlarmStartTimeViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Common Controllers/Settings/SettingsAlarmStartTimeViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Common Controllers/Protocol/carePathwayViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="31" selection-start="5044" selection-end="5067" vertical-scroll-proportion="0.022222223">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,43 @@
+<ClinicalPathway>
+	<PathwayXMLAuthor>Larry Suarez</PathwayXMLAuthor>
+	<PathwayXMLOntology>OntologyName</PathwayXMLOntology>
+	<Study>
+		<PrimaryResearcher>
+			<NameAddress>
+				<FirstName>Larry</FirstName>
+				<LastName>Suarez</LastName>
+			</NameAddress>
+			<URL>http://www.carethings.com</URL>
+		</PrimaryResearcher>
+	</Study>
+	<Interventions>
+		<Intervention>
+			<Interactions>
+				<Interaction>
+					<ID>http://www.carethings.com/userId#O1</ID>
+					<Text>Good %period_of_day% %first_name%. It’s great to see you. I am really interested in how it is going today. Please make sure you update your progress.</Text>
+					<Ontology>http://www.carethings.com/ontology/instruction#Coach</Ontology>
+					<TextResource/>
+					<Directive/>
+					<SystemID>http://www.carethings.com/sysId#7f0e3a4e-0800-48f6-bae6-e31a2ab875bb</SystemID>
+					<Type>Declarative</Type>
+					<ResponseRequired>NO</ResponseRequired>
+					<Navigation>NAVNEXTONLY</Navigation>
+				</Interaction>
+				<Interaction>
+					<ID>http://www.carethings.com/userId#iFinalInteraction</ID>
+					<Text>Final Interaction</Text>
+					<Ontology>http://www.carethings.com/ontology/interaction#Internal</Ontology>
+					<TextResource/>
+					<Directive/>
+					<SystemID>http://www.carethings.com/sysId#5d34a717-bf02-4fdb-89ce-3b4acb2c1cba</SystemID>
+					<Type>Imperative</Type>
+					<Behaviors>
+						<Behavior>http://www.carethings.com/behavior/pre/userBehavior#finalInteraction</Behavior>
+					</Behaviors>
+					<Responses/>
+				</Interaction>
+			</Interactions>
+		</Intervention>
+	</Interventions>
+</ClinicalPathway>

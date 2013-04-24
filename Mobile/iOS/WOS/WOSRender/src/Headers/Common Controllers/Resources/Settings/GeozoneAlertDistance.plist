@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Rows</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>100 meters</string>
+			<key>Distance</key>
+			<integer>100</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>200 meters</string>
+			<key>Distance</key>
+			<integer>200</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>300 meters</string>
+			<key>Distance</key>
+			<integer>300</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>400 meters</string>
+			<key>Distance</key>
+			<integer>400</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>500 meters</string>
+			<key>Distance</key>
+			<integer>500</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1 kilometer</string>
+			<key>Distance</key>
+			<integer>1000</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>2 kilometers</string>
+			<key>Distance</key>
+			<integer>2000</integer>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>3 kilometers</string>
+			<key>Distance</key>
+			<integer>3000</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
